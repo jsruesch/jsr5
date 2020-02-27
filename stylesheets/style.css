@@ -709,7 +709,8 @@ hr {
   width: 100%;
   float: left;
   height: 60px;
-  background: url(../img/assets/div.png) no-repeat; }
+  background: url(../img/assets/div.png) no-repeat;
+  margin-bottom: -30px; }
 
 /* END: Elements */
 /**
