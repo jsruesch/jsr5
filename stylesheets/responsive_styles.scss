@@ -19,6 +19,9 @@
         img{ @include transition; height: 35px !important; }
     } 
 
+      /* Header */
+      .header-catagories{ text-align: left !important; }
+
     .nav-link-mobile-container{ @include transition; display: block !important; }
     .mobile-nav-container{ display: block !important; }
 

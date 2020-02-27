@@ -96,6 +96,10 @@
       -o-transition: all 0.3s ease;
       height: 35px !important; }
 
+  /* Header */
+  .header-catagories {
+    text-align: left !important; }
+
   .nav-link-mobile-container {
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -141,6 +145,12 @@ h1, h2, h3, h4, h5 {
 
 .text-small {
   font-size: 13px; }
+
+.text-left {
+  text-align: left; }
+
+.text-right {
+  text-align: right; }
 
 /* End Bootstrap Overrides */
 /* Padding Sets */
@@ -464,6 +474,9 @@ h1, h2, h3, h4, h5 {
 .ggap-none {
   grid-gap: 0px !important; }
 
+.ggap-5 {
+  grid-gap: 5px; }
+
 .ggap-10 {
   grid-gap: 10px; }
 
@@ -649,6 +662,18 @@ hr {
   width: 100%;
   float: left; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+  text-transform: uppercase; }
+
+h1 {
+  letter-spacing: 7px;
+  font-weight: 800; }
+
+h4 {
+  font-weight: 300;
+  letter-spacing: 2px; }
+
 ::selection {
   background: black;
   color: white; }
@@ -717,6 +742,7 @@ hr {
       font-weight: 800; }
   .navigation-container .nav-logo {
     position: absolute;
+    z-index: 99;
     top: 5px;
     left: 150px;
     height: 104px;
@@ -750,8 +776,8 @@ hr {
       text-transform: uppercase;
       color: #767d87;
       font-weight: 800;
-      font-size: 1rem;
-      letter-spacing: 0.125rem; }
+      font-size: .85rem;
+      letter-spacing: 0.3rem; }
       #navigation-links li a:after, #navigation-links li a:before {
         -webkit-transition: all 0.3s ease;
         -moz-transition: all 0.3s ease;
@@ -763,7 +789,7 @@ hr {
         border: 0px solid #fff; }
       #navigation-links li a:before {
         bottom: -1px;
-        right: -1px;
+        right: 3px;
         border-bottom: 4px solid white; }
       #navigation-links li a:hover {
         -webkit-transition: all 0.3s ease;
@@ -798,6 +824,14 @@ hr {
   height: 60px;
   background: url(../img/assets/div.png) no-repeat;
   margin-bottom: -30px; }
+
+/* Header */
+.header-title {
+  color: #c6a44d; }
+
+.header-catagories {
+  text-align: right;
+  color: #767d87; }
 
 /* END: Elements */
 /**

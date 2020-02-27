@@ -1,6 +1,5 @@
 <?php include('./inc/header.php') ?>
 
-
 <div class="wrapper">
     <div class="wrapper-content">
     <!-- Main Gallery -->
@@ -39,7 +38,7 @@
                 </div>
             <!-- Destiny -->
                 <div class="mgimg">
-                    <a href="#0">
+                    <a href="project-destiny.php">
                         <img class="full" src="img/projects/destiny/mg-destiny-gif.gif"/>
                     </a>
                     <div class="b-top"></div>
@@ -67,6 +66,26 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
+            <!-- Top Cheddar -->
+                <div class="mgimg">
+                    <a href="#0">
+                        <img class="full" src="img/projects/topcheddar/mg-topcheddar-01.png"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
+            <!-- Fuoco -->
+                <div class="mgimg">
+                    <a href="#0">
+                        <img class="full" src="img/projects/fuoco/mg-fuoco-01.png"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
             <!-- All Might -->
                 <div class="mgimg">
                     <a href="#0">
@@ -77,30 +96,60 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-
+            <!-- Night King -->
                 <div class="mgimg">
                     <a href="#0">
-                        <img class="full" src="img/projects/the-card-table/mg-cardtable-01.png"/>
+                        <img class="full" src="img/projects/nightking/mg-nightking-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-
+            <!-- Cosmos -->
                 <div class="mgimg">
                     <a href="#0">
-                        <img class="full" src="img/projects/destiny/mg-destiny-gif.gif"/>
+                        <img class="full" src="img/projects/cosmos/mg-cosmos-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-
+            <!-- Top Cheddar -->
                 <div class="mgimg">
                     <a href="#0">
-                        <img class="full" src="img/projects/destiny/mg-destiny-gif.gif"/>
+                        <img class="full" src="img/projects/topcheddar/mg-topcheddar-01.png"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
+            <!-- Fuoco -->
+                <div class="mgimg">
+                    <a href="#0">
+                        <img class="full" src="img/projects/fuoco/mg-fuoco-01.png"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
+            <!-- All Might -->
+                <div class="mgimg">
+                    <a href="#0">
+                        <img class="full" src="img/projects/allmight/mg-allmight-01.png"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
+            <!-- Night King -->
+                <div class="mgimg">
+                    <a href="#0">
+                        <img class="full" src="img/projects/nightking/mg-nightking-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>

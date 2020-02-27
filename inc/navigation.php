@@ -14,7 +14,7 @@
          <div class="navigation-content">
             <!-- Nav Logo -->
             <div class="nav-logo-container">
-               <div class="nav-logo"></div>
+               <a href="index.php"><div class="nav-logo"></div></a>
                <div class="nav-info-container">
                   <div class="full">
                      <p class="nav-info-name">Jake Ruesch</p>
