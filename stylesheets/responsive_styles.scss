@@ -10,6 +10,8 @@
 @media screen and (max-width: 895px){ 
 
     .nav-link-container{ display: none !important; }
+    .nav-info-container{ display: none !important; }
+
     .navigation-content{ width: 100% !important; }
     .navigation-logo{
         @include transition; 

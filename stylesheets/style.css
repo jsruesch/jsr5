@@ -77,27 +77,30 @@
   .nav-link-container {
     display: none !important; }
 
+  .nav-info-container {
+    display: none !important; }
+
   .navigation-content {
     width: 100% !important; }
 
   .navigation-logo {
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
     padding: 15px !important; }
     .navigation-logo img {
-      -webkit-transition: all 0.2s ease;
-      -moz-transition: all 0.2s ease;
-      -ms-transition: all 0.2s ease;
-      -o-transition: all 0.2s ease;
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
       height: 35px !important; }
 
   .nav-link-mobile-container {
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -ms-transition: all 0.2s ease;
-    -o-transition: all 0.2s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
     display: block !important; }
 
   .mobile-nav-container {
@@ -636,6 +639,9 @@ body {
   width: 100%;
   background: url(../img/assets/bg-tile-01.png) 50% 0% repeat-x; }
 
+a {
+  text-decoration: none; }
+
 ul {
   list-style: none; }
 
@@ -644,7 +650,7 @@ hr {
   float: left; }
 
 ::selection {
-  background: #440001;
+  background: black;
   color: white; }
 
 /* END: Global Styles */
@@ -685,9 +691,30 @@ hr {
     position: relative;
     float: left;
     height: 100%;
-    width: 500px;
+    width: 535px;
     margin-left: -150px;
     background: url(../img/assets/nav-gold.png); }
+  .navigation-container .nav-info-container {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 30px; }
+    .navigation-container .nav-info-container .nav-info-name {
+      font-family: 'Montserrat';
+      text-transform: uppercase;
+      font-size: 1.6875rem;
+      color: #c6a44d;
+      letter-spacing: 7px;
+      text-align: right;
+      font-weight: 800; }
+    .navigation-container .nav-info-container .nav-info-title {
+      padding-right: 5px;
+      font-family: 'Montserrat';
+      font-size: 0.75rem;
+      color: #767d87;
+      letter-spacing: 1.5px;
+      text-align: right;
+      font-weight: 800; }
   .navigation-container .nav-logo {
     position: absolute;
     top: 5px;
@@ -698,6 +725,66 @@ hr {
 
 .mobile-nav-container {
   display: none; }
+
+.nav-link-container {
+  height: 100%; }
+
+#navigation-links {
+  float: right;
+  height: 100%; }
+  #navigation-links li {
+    height: 100%;
+    display: flex;
+    float: left;
+    margin-left: 30px; }
+    #navigation-links li a {
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      justify-content: center;
+      align-self: center;
+      position: relative;
+      padding-bottom: 8px;
+      font-family: 'Montserrat';
+      text-transform: uppercase;
+      color: #767d87;
+      font-weight: 800;
+      font-size: 1rem;
+      letter-spacing: 0.125rem; }
+      #navigation-links li a:after, #navigation-links li a:before {
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -ms-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+        content: " ";
+        width: 0px;
+        position: absolute;
+        border: 0px solid #fff; }
+      #navigation-links li a:before {
+        bottom: -1px;
+        right: -1px;
+        border-bottom: 4px solid white; }
+      #navigation-links li a:hover {
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -ms-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        color: white !important; }
+        #navigation-links li a:hover:before, #navigation-links li a:hover:after {
+          width: 25px;
+          height: 100%; }
+
+.active {
+  color: #c6a44d !important; }
+  .active:before {
+    width: 25px !important;
+    height: 100%;
+    bottom: -1px;
+    right: -1px;
+    border-bottom: 4px solid white !important; }
 
 /* END: Navigation */
 /**

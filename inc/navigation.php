@@ -15,6 +15,14 @@
             <!-- Nav Logo -->
             <div class="nav-logo-container">
                <div class="nav-logo"></div>
+               <div class="nav-info-container">
+                  <div class="full">
+                     <p class="nav-info-name">Jake Ruesch</p>
+                  </div>
+                  <div class="full">
+                     <p class="nav-info-title">Art Direction & Visual Design</p>
+                  </div>
+               </div>
             </div><!-- END: Nav Logo -->
 
             <div class="nav-link-container right">

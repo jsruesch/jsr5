@@ -38,6 +38,8 @@
  }
 
  a{ 
+   text-decoration: none; 
+
     &:hover{ }
   }
 
@@ -58,7 +60,7 @@
 
  table tr{  }
 
- ::selection{ background: #440001; color:white;  }
+ ::selection{ background: black; color:white;  }
 
  /* END: Global Styles */
 
@@ -103,9 +105,36 @@
       position: relative;
       float: left; 
       height: 100%; 
-      width: 500px; 
+      width: 535px; 
       margin-left: -150px; 
       background: url(../img/assets/nav-gold.png); 
+    }
+
+    .nav-info-container{
+      display: block;
+      position: absolute;
+      right: 0; 
+      top: 30px; 
+
+      .nav-info-name{
+        font-family: 'Montserrat';
+        text-transform: uppercase; 
+        font-size: 1.6875rem; 
+        color: $gold; 
+        letter-spacing: 7px; 
+        text-align: right; 
+        font-weight: 800;
+      }
+
+      .nav-info-title{
+        padding-right: 5px; 
+        font-family: 'Montserrat';
+        font-size: 0.75rem; 
+        color: $grey; 
+        letter-spacing: 1.5px;
+        text-align: right; 
+        font-weight: 800; 
+      }
     }
 
     .nav-logo{
@@ -119,6 +148,80 @@
   }
 
   .mobile-nav-container{ display: none; }
+
+  .nav-link-container{
+    height: 100%;
+  }
+
+  #navigation-links{
+    float: right; 
+    height: 100%; 
+
+    li{
+      height: 100%;
+      display: flex;  
+      float: left; 
+      margin-left: 30px; 
+
+      a{
+        @include transition;
+        justify-content: center;
+        align-self: center; 
+
+        position: relative;
+        padding-bottom: 8px; 
+
+        font-family: 'Montserrat';
+        text-transform: uppercase;
+        color: $grey;
+        font-weight: 800;
+        font-size: 1rem;
+        letter-spacing: 0.125rem; 
+
+        &:after, &:before{
+          @include transition;
+          content:" ";
+          width:0px;
+          position:absolute;
+          border :0px solid #fff;          
+        }
+        
+        &:before{
+          bottom:-1px;
+          right:-1px;
+          border-bottom:4px solid white;          
+        }
+
+        &:hover{
+          @include transition;
+          border-top-right-radius:0px;
+          border-bottom-left-radius:0px;
+          color: white !important;
+
+          &:before,&:after{
+              width:25px;
+              height:100%;
+              // border-color:white;
+          }
+        }
+      }
+    }
+  }
+
+
+  .active{
+    color: $gold !important;
+
+    &:before{
+      width:25px !important;
+      height:100%;
+      bottom:-1px;
+      right:-1px;
+      border-bottom:4px solid white !important;
+    }
+  }
+
+  // .acitve, .navlink:hover{ color: white !important; }
 
 /* END: Navigation */
 
