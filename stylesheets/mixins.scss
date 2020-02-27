@@ -1,0 +1,47 @@
+/**
+ * =========================================
+ * Mixins
+ * =========================================
+ */
+
+@mixin center{ margin:0 auto; }
+@mixin full { width:100%; float:left; }
+@mixin transition{
+    -webkit-transition: all 0.2s ease;
+       -moz-transition: all 0.2s ease;
+        -ms-transition: all 0.2s ease;
+         -o-transition: all 0.2s ease;
+}
+@mixin rounded_corners{
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+}
+
+/* END Mixins */
+
+
+/**
+ * =========================================
+ * Variables
+ * =========================================
+ */
+
+$gold: #c6a44d;
+$grey: #767d87;
+
+ /* END Variables */
+
+
+/**
+ * =========================================
+ * Setup Classes
+ * =========================================
+ */
+ .text-bold{    font-weight: 600 !important; }
+
+ .text-gold{    color: $gold !important; }
+ .text-grey{    color: $grey !important; }
+
+ .bg-gold{ background: $gold; }
+ .bg-grey{ background: $grey; }

@@ -1,0 +1,38 @@
+/*------------------------------------------------------------------
+
+    Responsive Styles
+    
+-------------------------------------------------------------------*/
+
+@import 'mixins';
+
+/*-----------------  Desktops  -----------------*/
+@media screen and (max-width: 895px){ 
+
+    .nav-link-container{ display: none !important; }
+    .navigation-content{ width: 100% !important; }
+    .navigation-logo{
+        @include transition; 
+        padding: 15px !important; 
+        img{ @include transition; height: 35px !important; }
+    } 
+
+    .nav-link-mobile-container{ @include transition; display: block !important; }
+    .mobile-nav-container{ display: block !important; }
+
+    /* Grid Components  */
+    .wrapper-content{ padding-left: 20px; padding-right: 20px; }
+    .project-hero-image{ max-height: 350px !important; padding: 20px !important;  }
+    .plane-break-cutout{ max-height: 350px !important; }
+
+}
+
+/*-----------------  Smartphones  -----------------*/
+@media (max-device-width: 519px) {  }
+/* End Smartphones */
+
+
+
+
+
+
