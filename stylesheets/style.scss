@@ -239,8 +239,104 @@
     margin-bottom: -30px; 
   }
 
+
 /* END: Elements */
 
+
+  
+    
+/**
+ * =========================================
+ * Main Gallery
+ * =========================================
+ */
+
+.mgimg{
+  @include transition; 
+  position: relative; 
+
+  margin: 0 0 0 0;
+  box-shadow: none; 
+  z-index: 0;
+
+  .b-top{
+    @include transition; 
+    position: absolute; 
+    top: 0;
+    left: 0; 
+    height: 4px; 
+    width: 0%; 
+    background: white; 
+    mix-blend-mode: overlay;
+  }
+  .b-right{
+    @include transition; 
+    position: absolute;
+    margin: -4px 0 4px 0;  
+    bottom: 0;
+    right: 0; 
+    height: 0%; 
+    width: 4px; 
+    background: white; 
+    mix-blend-mode: overlay;
+  }
+  .b-bottom{
+    @include transition; 
+    position: absolute; 
+    bottom: 0;
+    right: 0; 
+    height: 4px; 
+    width: 0%; 
+    background: white; 
+    mix-blend-mode: overlay;
+  }
+  .b-left{
+    @include transition; 
+    position: absolute; 
+    bottom: 0;
+    left: 0; 
+    height: 0%; 
+    width: 4px; 
+    background: white; 
+    mix-blend-mode: overlay;
+  }
+
+  &:hover{
+    @include transition; 
+
+    z-index: 10; /* Makes it on top */
+
+    /* Makes It Move */
+    margin-top: -6px;
+    margin-bottom: 6px; 
+
+    box-shadow:
+      0 1px 1.1px rgba(0, 0, 0, 0.062),
+      0 2.3px 2.7px rgba(0, 0, 0, 0.089),
+      0 4.4px 5px rgba(0, 0, 0, 0.11),
+      0 7.8px 8.9px rgba(0, 0, 0, 0.131),
+      0 14.6px 16.7px rgba(0, 0, 0, 0.158),
+      0 35px 40px rgba(0, 0, 0, 0.22)
+    ;
+
+    .b-top{
+      width: 100%; 
+    }
+    .b-right{
+      height: calc(100% - 8px); 
+      margin: -4px 0 4px 0; 
+    }
+    .b-bottom{
+      width: calc(100% - 4px); 
+    }
+    .b-left{
+      height: calc(100% - 4px); 
+    }
+  }
+}
+ 
+
+/* END: Main Gallery */
 
   
     
