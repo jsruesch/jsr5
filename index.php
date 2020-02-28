@@ -18,7 +18,7 @@
         <section>
             <div class="grid-main-gallery">
             <!-- Gear -->
-                <div class="mgimg mix graphic web">
+                <div class="mgimg mix art-direction graphic web">
                     <a href="#0">
                         <img class="full" src="img/projects/gear/mg-gear-01.png"/>
                     </a>
@@ -47,18 +47,8 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-            <!-- Card Table -->
-                <div class="mix mgimg graphic web">
-                    <a href="#0">
-                        <img class="full" src="img/projects/the-card-table/mg-cardtable-01.png"/>
-                    </a>
-                    <div class="b-top"></div>
-                    <div class="b-right"></div>
-                    <div class="b-bottom"></div>
-                    <div class="b-left"></div>
-                </div>
             <!-- Destiny -->
-                <div class="mix mgimg grahpic">
+                <div class="mix mgimg art-direction  grahpic">
                     <a href="project-destiny.php">
                         <img class="full" src="img/projects/destiny/mg-destiny-gif.gif"/>
                     </a>
@@ -67,21 +57,30 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-           
-            <!-- Cosmos -->
-                <div class="mix mgimg game-ui graphic">
+            <!-- Card Table -->
+                <div class="mix mgimg art-direction graphic web">
                     <a href="#0">
-                        <img class="full" src="img/projects/cosmos/mg-cosmos-01.png"/>
+                        <img class="full" src="img/projects/the-card-table/mg-cardtable-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-            <!-- Top Cheddar -->
+            <!-- CSC -->
+                <div class="mix mgimg game-ui graphic art-direction">
+                    <a href="#0">
+                    <img class="full" src="img/projects/csc/mg-csc-gif.gif"/>
+                    </a>
+                    <div class="b-top"></div>
+                    <div class="b-right"></div>
+                    <div class="b-bottom"></div>
+                    <div class="b-left"></div>
+                </div>
+            <!-- Gundam -->
                 <div class="mix mgimg graphic">
                     <a href="#0">
-                        <img class="full" src="img/projects/topcheddar/mg-topcheddar-01.png"/>
+                        <img class="full" src="img/projects/gundam/mg-gundam-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
@@ -89,7 +88,7 @@
                     <div class="b-left"></div>
                 </div>
             <!-- Fuoco -->
-                <div class="mix mgimg graphic">
+                <div class="mix mgimg graphic art-direction ">
                     <a href="#0">
                         <img class="full" src="img/projects/fuoco/mg-fuoco-01.png"/>
                     </a>
@@ -109,7 +108,7 @@
                     <div class="b-left"></div>
                 </div>
             <!-- Night King -->
-                <div class="mix mgimg">
+                <div class="mix mgimg graphic">
                     <a href="#0">
                         <img class="full" src="img/projects/nightking/mg-nightking-01.png"/>
                     </a>
@@ -119,7 +118,7 @@
                     <div class="b-left"></div>
                 </div>
             <!-- Cosmos -->
-                <div class="mix mgimg">
+                <div class="mix mgimg grahpic game-ui">
                     <a href="#0">
                         <img class="full" src="img/projects/cosmos/mg-cosmos-01.png"/>
                     </a>
@@ -129,7 +128,7 @@
                     <div class="b-left"></div>
                 </div>
             <!-- Top Cheddar -->
-                <div class="mix mgimg">
+                <div class="mix mgimg graphic web">
                     <a href="#0">
                         <img class="full" src="img/projects/topcheddar/mg-topcheddar-01.png"/>
                     </a>
@@ -138,10 +137,10 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-            <!-- Fuoco -->
-                <div class="mix mgimg">
+            <!-- Econauts -->
+                <div class="mix mgimg game-ui">
                     <a href="#0">
-                        <img class="full" src="img/projects/fuoco/mg-fuoco-01.png"/>
+                        <img class="full" src="img/projects/econauts/mg-econauts-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
