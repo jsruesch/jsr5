@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Over the last few years I've grown to love Destiny 2 and it's community. Ive made a bunch of new friends and have loved learning and growing as a player in the deep, immersive world Destiny 2 provides. When Destiny was chosen as the theme for our Core Skills Clinic Hammersnow Cup game, I was giddy at the chance to make these logos. Inside jokes included, of course! Each of the characters featured here are modeled after actual people in my Destiny clan wearing their favorite gear sets!
+                        Over the last few years I've grown to love Destiny 2 and it's community. Ive made a bunch of new friends and have loved learning and growing as a player in the deep, immersive world Destiny 2 provides. When Destiny was chosen as the theme for our Core Skills Clinic Hammersnow Cup game I was giddy at the chance to make these logos. Inside jokes included, of course! Each of the characters featured here are modeled after actual people in my Destiny clan wearing their favorite gear sets!
                         </p>
                     </div>
                 </div>

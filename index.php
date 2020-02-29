@@ -89,7 +89,7 @@
                 </div>
             <!-- Fuoco -->
                 <div class="mix mgimg graphic art-direction ">
-                    <a href="#0">
+                    <a href="project-fuoco.php">
                         <img class="full" src="img/projects/fuoco/mg-fuoco-01.png"/>
                     </a>
                     <div class="b-top"></div>
