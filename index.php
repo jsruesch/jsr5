@@ -109,7 +109,7 @@
                 </div>
             <!-- Night King -->
                 <div class="mix mgimg graphic">
-                    <a href="#0">
+                    <a href="project-nightking.php">
                         <img class="full" src="img/projects/nightking/mg-nightking-01.png"/>
                     </a>
                     <div class="b-top"></div>
