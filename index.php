@@ -79,7 +79,7 @@
                 </div>
             <!-- Gundam -->
                 <div class="mix mgimg graphic">
-                    <a href="#0">
+                    <a href="project-dsh.php">
                         <img class="full" src="img/projects/gundam/mg-gundam-01.png"/>
                     </a>
                     <div class="b-top"></div>
