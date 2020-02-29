@@ -99,7 +99,7 @@
                 </div>
             <!-- All Might -->
                 <div class="mix mgimg graphic">
-                    <a href="#0">
+                    <a href="project-allmight.php">
                         <img class="full" src="img/projects/allmight/mg-allmight-01.png"/>
                     </a>
                     <div class="b-top"></div>

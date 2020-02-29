@@ -39,18 +39,18 @@
             </div>
             <div class="full grid-2col ggap5 mar5-bot">
                 <img class="full" src="img/projects/the-card-table/card-table-mobile.gif" alt="The Card Table Outdoor Image">
-            <div class="full copy-container pad60  grid-vertical-align-content">
-                <div class="full">
+                <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
-                        <h3 class="text-gold">Menu Builder</h3>
-                    </div>
-                    <div class="full">
-                        <p class="text-grey mar15-top">
-                        The nature of daily specials, menu updates, special events, parties, and theme days made it essential to build the website in a way that'd allow the restaurant owners to add, remove, change, and reorder menu items, specials, and announcements on the fly without any technical knowledge. 
-                        </p>
+                        <div class="full">
+                            <h3 class="text-gold">Menu Builder</h3>
+                        </div>
+                        <div class="full">
+                            <p class="text-grey mar15-top">
+                            The nature of daily specials, menu updates, special events, parties, and theme days made it essential to build the website in a way that'd allow the restaurant owners to add, remove, change, and reorder menu items, specials, and announcements on the fly without any technical knowledge. 
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
             </div>
             <div class="full grid-2col ggap-5">
                 <img class="full" src="img/projects/the-card-table/card-table-menu-01.png" alt="The Card Table Menu Cover">
