@@ -23,27 +23,27 @@
                     <img class="full" src="img/projects/quest/lsgame-poster-image.png" alt="Lifespan Game Poster Image">
                 </div>
                 <div class="full">
-
-                    <div class="full copy-container pad60 ">
+                    <div class="full copy-container pad60 grid-vertical-align-content">
                         <div class="full">
-                            <h3 class="text-gold">Lifespan Traveler</h3>
+                            <div class="full">
+                                <h3 class="text-gold">Lifespan Traveler</h3>
+                            </div>
+                            <div class="full mar20-bot">
+                                <p class="text-grey mar15-top">
+                                    This game, built for the WebGL platform, takes players through 14 different levels where they assume the role of a person at different stages throughout the human lifespan.
+                                </p>
+                                <p class="text-grey mar15-top">
+                                    As Art Director for this project it was my job to direct a small team of artists in creating immersive, detailed environments and characters that all had their own unique flavor while still maintaining the feeling of being part of the same universe. Pushing the boundaries of what is achievable visually while still remaining performant on a limited platform like WebGL was quite the balancing act. 
+                                </p>
+                            </div>
+                            <div class="full mar5-bot">
+                                <img class="full" src="img/projects/quest/lsgame-carnival.jpg" alt="Lifespan Game Carnival Level">
+                            </div>
+                            
+                            <div class="full">
+                                <img class="full" src="img/projects/quest/lsgame-beach.jpg" alt="Lifespan Game Beach Level">
+                            </div>
                         </div>
-                        <div class="full">
-                            <p class="text-grey mar15-top">
-                                This game, built for the WebGL platform, takes players through 14 different levels where they assume the role of a person at different stages throughout the human lifespan.
-                            </p>
-                            <p class="text-grey mar15-top">
-                                As Art Director for this project it was my job to direct a small team of artists in creating immersive, detailed environments and characters that all had their own unique flavor while still maintaining the feeling of being part of the same universe. Pushing the boundaries of what is achievable visually while still remaining performant on a limited platform like WebGL was quite the balancing act. 
-                            </p>
-                        </div>
-                    </div>
-                        
-                    <div class="full mar5-bot">
-                        <img class="full" src="img/projects/quest/lsgame-carnival.jpg" alt="Lifespan Game Carnival Level">
-                    </div>
-                    
-                    <div class="full">
-                        <img class="full" src="img/projects/quest/lsgame-beach.jpg" alt="Lifespan Game Beach Level">
                     </div>
                 </div>
             </div>
