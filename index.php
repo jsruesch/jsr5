@@ -69,7 +69,7 @@
                 </div>
             <!-- CSC -->
                 <div class="mix mgimg game-ui graphic art-direction">
-                    <a href="#0">
+                    <a href="project-csc.php">
                     <img class="full" src="img/projects/csc/mg-csc-gif.gif"/>
                     </a>
                     <div class="b-top"></div>

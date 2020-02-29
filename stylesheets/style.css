@@ -571,6 +571,11 @@ section {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas: "left midleft midright right"; }
 
+.grid-4col-2col-mobile {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-areas: "left midleft midright right"; }
+
 .grid-5col {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -625,6 +630,11 @@ section {
     grid-template-columns: 100%;
     grid-template-rows: 1fr auto-fit 1fr auto-fit 1fr auto-fit 1fr auto-fit;
     grid-template-areas: "left" "midleft" "midright" "right"; }
+
+  .grid-4col-2col-mobile {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "left right"; }
 
   .grid-5col {
     grid-template-columns: 100%;
