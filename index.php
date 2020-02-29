@@ -29,7 +29,7 @@
                 </div>
             <!-- Quest -->
                 <div class="mix mgimg art-direction graphic game-ui">
-                    <a href="#0">
+                    <a href="project-lsgame.php">
                         <img class="full" src="img/projects/quest/mg-quest-01.png"/>
                     </a>
                     <div class="b-top"></div>
@@ -59,7 +59,7 @@
                 </div>
             <!-- Card Table -->
                 <div class="mix mgimg art-direction graphic web">
-                    <a href="#0">
+                    <a href="project-card-table.php">
                         <img class="full" src="img/projects/the-card-table/mg-cardtable-01.png"/>
                     </a>
                     <div class="b-top"></div>
@@ -147,10 +147,10 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-            <!-- All Might -->
-                <div class="mix mgimg">
+            <!-- WIDA -->
+                <div class="mix mgimg art-direction">
                     <a href="#0">
-                        <img class="full" src="img/projects/allmight/mg-allmight-01.png"/>
+                        <img class="full" src="img/projects/wida/mg-wida-01.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>

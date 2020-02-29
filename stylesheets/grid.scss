@@ -12,6 +12,19 @@
  .ggap-20{ grid-gap: 20px; }
  .ggap-30{ grid-gap: 30px; }
  .ggap-60{ grid-gap: 60px; }
+
+.v-flex{
+   display: flex; 
+   flex-direction: column; 
+}
+
+.flex{ display: flex; }
+
+ .grid-vertical-align-content{
+   display: flex; 
+   justify-content: center; 
+   align-items: stretch;
+ }
  
  .grid-vertical-align-content{
     display: flex;
@@ -75,6 +88,11 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: "left middle right";
  }
+ .grid-3col-2col-mobile{
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "left middle right";
+ }
 
  .grid-4col{
     display: grid; 
@@ -134,6 +152,12 @@
             "middle"
             "right";
     }
+
+    .grid-3col-2col-mobile{
+      display: grid; 
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas: "left right";
+   }
 
     .grid-4col{
         grid-template-columns: 100%;

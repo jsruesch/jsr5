@@ -39,9 +39,12 @@
  }
 
  a{ 
+  @include transition;
    text-decoration: none; 
+   color: $gold; 
+   font-weight: 900; 
 
-    &:hover{ }
+    &:hover{ @include transition; color: white;  }
   }
 
  p{ 
@@ -63,6 +66,11 @@
  }
 
  h1{
+  letter-spacing: 7px; 
+  font-weight: 800;
+ }
+
+ h3{
   letter-spacing: 7px; 
   font-weight: 800;
  }
@@ -263,6 +271,7 @@
     .header-catagories{ 
       text-align: right;
       color: $grey; 
+      padding-top: 5px; 
     }
 
     /* Sorting Controls */
@@ -399,5 +408,8 @@
  * =========================================
  */
 
+ footer{
+   @include full;
+ }
 
 /* END: Footer */
