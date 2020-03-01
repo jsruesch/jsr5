@@ -39,7 +39,7 @@
                 </div>
             <!-- Newts -->
                 <div class="mix mgimg art-direction graphic game-ui">
-                    <a href="#0">
+                    <a href="project-newtsvoyage.php">
                         <img class="full" src="img/projects/newts/mg-newts-01.png"/>
                     </a>
                     <div class="b-top"></div>
@@ -139,7 +139,7 @@
                 </div>
             <!-- Econauts -->
                 <div class="mix mgimg game-ui">
-                    <a href="#0">
+                    <a href="project-econauts.php">
                         <img class="full" src="img/projects/econauts/mg-econauts-01.png"/>
                     </a>
                     <div class="b-top"></div>
