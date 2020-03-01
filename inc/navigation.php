@@ -35,19 +35,21 @@
                </div>
             </div><!-- END: Menu Toggle Button -->
          </div>
-
       </div><!-- CLOSE: .navigation-content -->
    </div><!-- END: Desktop Nav -->
 
-   
-
-   <div class="divider-main"></div>
-   <!-- Mobile Navigation -->
-   <div class="mobile-nav-container">
+    <!-- Mobile Navigation -->
+    <div class="mobile-nav-container">
       <div class="mobile-navigtation-links-container grid-vertical-align-content">
          <?php include('nav-links.php') ?>
       </div>
    </div> <!-- END: Mobile Navigation -->
+   
+   <div class="divider-main"></div>
+   
+  
+
+   
    </div><!-- CLOSE: .wrapper-content -->
 </div><!-- CLOSE: .wrapper -->
 

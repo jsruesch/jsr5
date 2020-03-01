@@ -286,7 +286,7 @@
     visibility: visible; 
     height: 55px;
     width: 100%;
-    top: -30px; 
+    top: 0; 
     position: relative; 
     z-index: 99999;
     background: #03010b; 
@@ -410,7 +410,8 @@
   .divider-main{
     @include full; 
     height: 60px;
-    background: url(../img/assets/div.png) no-repeat; 
+    background: url(../img/assets/div.png) no-repeat;
+    background-size: contain; 
     margin-bottom: -30px; 
   }
 
