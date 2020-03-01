@@ -80,6 +80,39 @@
   .nav-info-container {
     display: none !important; }
 
+  #navigation-links {
+    width: 100% !important;
+    float: left !important;
+    display: grid !important;
+    grid-template-rows: 1fr !important;
+    grid-template-areas: "left middle right" !important; }
+    #navigation-links :nth-child(2) {
+      margin-left: 0px !important;
+      margin-right: 0px !important; }
+
+  .navlink a {
+    margin: 0 auto !important;
+    text-align: center !important;
+    font-size: .85rem !important; }
+
+  .mobile-nav-container {
+    display: block !important; }
+
+  .nav-link-mobile-container {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    display: block !important; }
+
+  .navigation-container {
+    height: 75px !important; }
+
+  .nav-logo {
+    height: 75px !important;
+    width: 92px !important;
+    background-size: cover !important; }
+
   .navigation-content {
     width: 100% !important; }
 
@@ -99,16 +132,6 @@
   /* Header */
   .header-catagories {
     text-align: left !important; }
-
-  .nav-link-mobile-container {
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
-    display: block !important; }
-
-  .mobile-nav-container {
-    display: block !important; }
 
   /* Grid Components  */
   .wrapper-content {
@@ -680,7 +703,10 @@ section {
 
 html {
   overflow: scroll;
-  background: #040406; }
+  background: #040406;
+  min-height: 100%;
+  position: relative;
+  width: 100%; }
 
 body {
   height: 100%;
@@ -779,10 +805,9 @@ h4 {
     margin-left: -150px;
     background: url(../img/assets/nav-gold.png); }
   .navigation-container .nav-info-container {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 30px; }
+    float: left;
+    width: 300px;
+    margin: 35px 0 0 -40px; }
     .navigation-container .nav-info-container .nav-info-name {
       font-family: 'Montserrat';
       text-transform: uppercase;
@@ -800,16 +825,20 @@ h4 {
       text-align: right;
       font-weight: 800; }
   .navigation-container .nav-logo {
-    position: absolute;
-    z-index: 99;
-    top: 5px;
-    left: 150px;
     height: 104px;
     width: 127px;
+    margin-top: 10px;
+    float: left;
     background: url(../img/assets/nav-icon.png) no-repeat; }
 
 .mobile-nav-container {
-  display: none; }
+  display: none;
+  width: 100%;
+  float: left; }
+
+.mobile-navigtation-links-container {
+  width: 100%;
+  float: left; }
 
 .nav-link-container {
   height: 100%; }
@@ -817,11 +846,13 @@ h4 {
 #navigation-links {
   float: right;
   height: 100%; }
+  #navigation-links :nth-child(2) {
+    margin-left: 30px;
+    margin-right: 30px; }
   #navigation-links li {
     height: 100%;
     display: flex;
-    float: left;
-    margin-left: 30px; }
+    float: left; }
     #navigation-links li a {
       -webkit-transition: all 0.3s ease;
       -moz-transition: all 0.3s ease;
@@ -835,7 +866,7 @@ h4 {
       text-transform: uppercase;
       color: #767d87;
       font-weight: 800;
-      font-size: .85rem;
+      font-size: 1.1rem;
       letter-spacing: 0.3rem; }
       #navigation-links li a:after, #navigation-links li a:before {
         -webkit-transition: all 0.3s ease;
@@ -862,15 +893,124 @@ h4 {
           width: 25px;
           height: 100%; }
 
-.active {
+.navactive {
   color: #c6a44d !important; }
-  .active:before {
+  .navactive:before {
     width: 25px !important;
     height: 100%;
     bottom: -1px;
     right: -1px;
     border-bottom: 4px solid white !important; }
 
+/* Mobile Menu */
+.mobile-nav-container {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  height: 0;
+  width: 0;
+  top: -30px;
+  position: relative;
+  opacity: 0;
+  visibility: hidden;
+  display: none; }
+
+.mobile-nav-expanded {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  opacity: 1;
+  visibility: visible;
+  height: 55px;
+  width: 100%;
+  top: -30px;
+  position: relative;
+  z-index: 99999;
+  background: #03010b; }
+
+.nav-link-mobile-container {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  display: none;
+  float: right; }
+
+/* Menu Toggle Button */
+.menu-toggle {
+  flex: 0 0 auto;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  position: relative;
+  margin-right: 10px;
+  margin-top: 10px; }
+
+.hamburger, .cross {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.hamburger span {
+  display: block;
+  width: 30px;
+  height: 4px;
+  margin-bottom: 6px;
+  overflow: hidden;
+  position: relative; }
+  .hamburger span:last-child {
+    margin: 0; }
+  .hamburger span:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #c6a44d;
+    transform: translateX(-200%);
+    transition: transform ease 300ms; }
+  .hamburger span:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    transform: translateX(-200%);
+    transition: transform ease 300ms;
+    transform: translateX(0); }
+  .hamburger span:nth-child(2):before, .hamburger span:nth-child(2):after {
+    transition-delay: 75ms; }
+  .hamburger span:last-child:before, .hamburger span:last-child:after {
+    transition-delay: 150ms; }
+
+.menu-toggle:hover .hamburger span:before {
+  transform: translateX(0); }
+.menu-toggle:hover .hamburger span:after {
+  transform: translateX(200%); }
+.menu-toggle.active .hamburger span:before {
+  transform: translateX(100%); }
+.menu-toggle.active .hamburger span:after {
+  transform: translateX(200%); }
+
+.cross span {
+  display: block;
+  width: 30px;
+  height: 4px;
+  background-color: white;
+  transform: translateY(50%) rotate(45deg) scaleX(0);
+  transition: transform ease 200ms; }
+  .cross span:last-child {
+    transform: translateY(-50%) rotate(-45deg) scaleX(0); }
+
+.menu-toggle.active .cross span {
+  transition-delay: 450ms;
+  transform: translateY(50%) rotate(45deg) scaleX(1); }
+  .menu-toggle.active .cross span:last-child {
+    transform: translateY(-50%) rotate(-45deg) scaleX(1); }
+
+/* END: Menu Toggle Button */
 /* END: Navigation */
 /**
  * =========================================
