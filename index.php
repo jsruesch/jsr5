@@ -19,7 +19,7 @@
             <div class="grid-main-gallery">
             <!-- Gear -->
                 <div class="mgimg mix art-direction graphic web">
-                    <a href="#0">
+                    <a href="project-gearlearning.php">
                         <img class="full" src="img/projects/gear/mg-gear-01.png"/>
                     </a>
                     <div class="b-top"></div>
@@ -119,7 +119,7 @@
                 </div>
             <!-- Cosmos -->
                 <div class="mix mgimg grahpic game-ui">
-                    <a href="#0">
+                    <a href="project-cosmos.php">
                         <img class="full" src="img/projects/cosmos/mg-cosmos-01.png"/>
                     </a>
                     <div class="b-top"></div>
@@ -129,7 +129,7 @@
                 </div>
             <!-- Top Cheddar -->
                 <div class="mix mgimg graphic web">
-                    <a href="#0">
+                    <a href="project-topcheddar.php">
                         <img class="full" src="img/projects/topcheddar/mg-topcheddar-01.png"/>
                     </a>
                     <div class="b-top"></div>
