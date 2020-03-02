@@ -50,14 +50,11 @@
         img{ @include transition; height: 35px !important; }
     } 
 
-      /* Header */
-      .header-catagories{ text-align: left !important; }
+    /* Header */
+    .header-catagories{ text-align: left !important; }
 
-    
     /* Grid Components  */
     .wrapper-content{ padding-left: 20px; padding-right: 20px; }
-    .project-hero-image{ max-height: 350px !important; padding: 20px !important;  }
-    .plane-break-cutout{ max-height: 350px !important; }
 
 }
 

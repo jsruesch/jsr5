@@ -9,7 +9,6 @@
 @import 'setup';
 @import 'grid';
 
-
 /* END: Imports */
 
 
@@ -58,9 +57,7 @@
 
  ul{ list-style:none; }
 
- hr{ 
-    @include full;
-  }
+ hr{ @include full; }
 
 
  h1, h2, h3, h4, h5, h6{
@@ -407,6 +404,7 @@
   * =========================================
   */ 
 
+  /* Shadowy Dividerydoo */
   .divider-main{
     @include full; 
     height: 60px;
@@ -471,7 +469,7 @@
   margin: 0 0 0 0;
   box-shadow: none; 
   z-index: 0;
-
+ 
   .b-top{
     @include transition; 
     position: absolute; 
