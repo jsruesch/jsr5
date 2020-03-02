@@ -843,17 +843,17 @@ h4 {
 .nav-link-container {
   height: 100%; }
 
-#navigation-links {
+.navigation-links {
   float: right;
   height: 100%; }
-  #navigation-links :nth-child(2) {
+  .navigation-links :nth-child(2) {
     margin-left: 30px;
     margin-right: 30px; }
-  #navigation-links li {
+  .navigation-links li {
     height: 100%;
     display: flex;
     float: left; }
-    #navigation-links li a {
+    .navigation-links li a {
       -webkit-transition: all 0.3s ease;
       -moz-transition: all 0.3s ease;
       -ms-transition: all 0.3s ease;
@@ -868,7 +868,7 @@ h4 {
       font-weight: 800;
       font-size: 1.1rem;
       letter-spacing: 0.3rem; }
-      #navigation-links li a:after, #navigation-links li a:before {
+      .navigation-links li a:after, .navigation-links li a:before {
         -webkit-transition: all 0.3s ease;
         -moz-transition: all 0.3s ease;
         -ms-transition: all 0.3s ease;
@@ -877,11 +877,11 @@ h4 {
         width: 0px;
         position: absolute;
         border: 0px solid #fff; }
-      #navigation-links li a:before {
+      .navigation-links li a:before {
         bottom: -1px;
         right: 3px;
         border-bottom: 4px solid white; }
-      #navigation-links li a:hover {
+      .navigation-links li a:hover {
         -webkit-transition: all 0.3s ease;
         -moz-transition: all 0.3s ease;
         -ms-transition: all 0.3s ease;
@@ -889,7 +889,7 @@ h4 {
         border-top-right-radius: 0px;
         border-bottom-left-radius: 0px;
         color: white !important; }
-        #navigation-links li a:hover:before, #navigation-links li a:hover:after {
+        .navigation-links li a:hover:before, .navigation-links li a:hover:after {
           width: 25px;
           height: 100%; }
 

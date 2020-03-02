@@ -47,7 +47,20 @@
    
    <div class="divider-main"></div>
    
-  
+   <script>
+      // Add active class to the current button (highlight it)
+      var header = document.getElementById("navigation-links");
+      var btns = header.getElementsByClassName("navlink");
+      for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function() {
+      var current = document.getElementsByClassName("navactive");
+      if (current.length > 0) { 
+         current[0].className = current[0].className.replace(" navactive", "");
+      }
+      this.className += " navactive";
+      });
+      }
+   </script>
 
    
    </div><!-- CLOSE: .wrapper-content -->

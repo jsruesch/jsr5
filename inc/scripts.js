@@ -1,3 +1,9 @@
+// Acive Nav Link
+$(document).ready(function() {
+	// get current URL path and assign 'active' class
+	var pathname = window.location.pathname;
+	$('ul li a').click(function(){ $('li a').removeClass("navactive"); $(this).addClass("navactive"); });
+})
 
 // Animate Menu Toggle Icon
 $(document).ready(function(){

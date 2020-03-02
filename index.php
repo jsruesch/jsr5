@@ -1,3 +1,4 @@
+<?php $current_page = 'work'; ?>
 <?php include('./inc/header.php') ?>
 
 <div class="wrapper">
@@ -172,6 +173,7 @@
     </div>
 </div>
 
+<!-- Sorting Script -->
 <script src="inc/mixitup.min.js"></script>
 <script>
     var containerEl = document.querySelector('.grid-main-gallery');
@@ -181,7 +183,6 @@
             animateResizeContainer: false // required to prevent column algorithm bug
         }
     });
-
     // NB: See comments in stylesheet regarding fixes for chrome and safari "flickering"
 </script>
 
