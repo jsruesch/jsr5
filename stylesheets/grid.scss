@@ -18,7 +18,13 @@
    flex-direction: column; 
 }
 
+.h-flex{
+   width: 100%; 
+   flex-grow: 1; 
+}
+
 .flex{ display: flex; }
+.flex-stretch{ align-self: stretch; }
 
  .grid-vertical-align-content{
    display: flex; 

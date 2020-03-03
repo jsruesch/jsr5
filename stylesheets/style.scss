@@ -452,6 +452,10 @@
         will-change: transform, opacity; /* prevents flicker in safari */
       }
 
+      .portrait-container{
+        max-width: 165px; 
+      }
+
 /* END: Elements */
 
 
