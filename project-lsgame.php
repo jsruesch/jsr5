@@ -33,7 +33,7 @@
                                     This game, built for the WebGL platform, takes players through 14 different levels where they assume the role of a person at different stages throughout the human lifespan.
                                 </p>
                                 <p class="text-grey mar15-top">
-                                    As Art Director for this project it was my job to direct a small team of artists in creating immersive, detailed environments and characters that all had their own unique flavor while still maintaining the feeling of being part of the same universe. Pushing the boundaries of what is achievable visually while still remaining performant on a limited platform like WebGL was quite the balancing act. 
+                                    As Art Director for this project it was my job to direct a small team of artists in creating immersive, detailed environments and characters that all had their own unique flavor while still maintaining the feeling of being part of the same universe. I created various form of documentation and styleguides to assist in this pursuit. Pushing the boundaries of what is achievable visually while still remaining performant on a limited platform like WebGL was quite the balancing act. 
                                 </p>
                             </div>
                             <div class="full mar5-bot">

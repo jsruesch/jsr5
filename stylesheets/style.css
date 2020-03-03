@@ -735,8 +735,10 @@ a {
 
 p {
   font-family: 'Montserrat';
-  font-size: 0.9375rem;
-  letter-spacing: 0.125rem; }
+  font-size: 1.025rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.75rem;
+  font-weight: 500; }
 
 ul {
   list-style: none; }
@@ -750,16 +752,16 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase; }
 
 h1 {
-  letter-spacing: 7px;
+  letter-spacing: .3rem;
   font-weight: 800; }
 
 h3 {
-  letter-spacing: 7px;
+  letter-spacing: .3rem;
   font-weight: 800; }
 
 h4 {
-  font-weight: 400;
-  letter-spacing: 0.125rem; }
+  font-weight: 500;
+  letter-spacing: 0.1rem; }
 
 h5 {
   font-weight: 800;
