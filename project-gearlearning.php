@@ -38,14 +38,15 @@
             </div>
             
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/gear/gear-image-01.png" alt="All Might Closeup Image">
-                <img class="full" src="img/projects/gear/gear-intro.gif" alt="All Might Process Sequence">
+                
+                <img class="full" src="img/projects/gear/gear-web.gif" alt="All Might Process Sequence">
             </div>
 
             <div class="full grid-3col ggap5 mar5-bot">
                 <img class="full" src="img/projects/gear/gear-tough-mudder.png" alt="All Might Closeup Image">
-                <img class="full" src="img/projects/gear/gear-intro.gif" alt="All Might Process Sequence">
-                <img class="full" src="img/projects/gear/gear-intro.gif" alt="All Might Process Sequence">
+                <img class="full" src="img/projects/gear/gear-image-01.png" alt="All Might Closeup Image">
+                <!-- <img class="full" src="img/projects/gear/gear-intro.gif" alt="All Might Process Sequence"> -->
+                <!-- <img class="full" src="img/projects/gear/gear-intro.gif" alt="All Might Process Sequence"> -->
             </div>
 
 
