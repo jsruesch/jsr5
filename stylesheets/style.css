@@ -136,7 +136,13 @@
   /* Grid Components  */
   .wrapper-content {
     padding-left: 20px;
-    padding-right: 20px; } }
+    padding-right: 20px; }
+
+  .portrait-container {
+    width: 100% !important;
+    float: left !important; }
+    .portrait-container img {
+      width: 100px !important; } }
 /*-----------------  Smartphones  -----------------*/
 /* End Smartphones */
 /**
@@ -516,7 +522,6 @@ h1, h2, h3, h4, h5 {
   flex-direction: column; }
 
 .h-flex {
-  width: 100%;
   flex-grow: 1; }
 
 .flex {
@@ -1063,8 +1068,8 @@ h4 {
   will-change: transform, opacity;
   /* prevents flicker in safari */ }
 
-.portrait-container {
-  max-width: 165px; }
+.portrait-container img {
+  width: 165px; }
 
 /* END: Elements */
 /**

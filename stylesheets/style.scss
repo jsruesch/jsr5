@@ -453,7 +453,9 @@
       }
 
       .portrait-container{
-        max-width: 165px; 
+        img{
+          width: 165px; 
+        }
       }
 
 /* END: Elements */
