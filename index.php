@@ -160,8 +160,8 @@
                 </div>
             <!-- Night King -->
                 <div class="mix mgimg">
-                    <a href="#0">
-                        <img class="full" src="img/projects/nightking/mg-nightking-01.png"/>
+                    <a href="inc/archive/jsrarchive/">
+                        <img class="full" src="img/projects/mg-thearchive.png"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>

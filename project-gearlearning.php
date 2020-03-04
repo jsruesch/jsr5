@@ -60,7 +60,7 @@
             </div>
 
             <div class="full grid-2col ggap5 mar5-bot">
-
+                <img class="full" src="img/projects/gear/gear-mosaic.png" alt="Gear Learning Intro Sequence">
                 <img class="full" src="img/projects/gear/gear-intro.gif" alt="Gear Learning Intro Sequence">
             </div>
 
