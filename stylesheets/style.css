@@ -142,7 +142,19 @@
     width: 100% !important;
     float: left !important; }
     .portrait-container img {
-      width: 100px !important; } }
+      width: 100px !important; }
+
+  .about-portrait-container {
+    width: 100%;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 30px 30px 0 30px; }
+
+  .about-portrait {
+    float: left !important;
+    width: 100% !important;
+    margin: 0 5px 0 0 !important; } }
 /*-----------------  Smartphones  -----------------*/
 /* End Smartphones */
 /**
@@ -634,6 +646,11 @@ section {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas: "gal01 gal02 gal03" "gal04 gal05 gal06"; }
 
+.grid-about {
+  display: grid;
+  grid-template-columns: 165px 1fr;
+  grid-template-areas: "portraits abouttext"; }
+
 @media screen and (max-width: 895px) {
   .wrapper .wrapper-content {
     width: 100%;
@@ -692,7 +709,11 @@ section {
   .grid-main-gallery {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr !important;
-    grid-template-areas: "left middle right" !important; } }
+    grid-template-areas: "left middle right" !important; }
+
+  .grid-about {
+    grid-template-columns: 1fr !important;
+    grid-template-areas: "portraits" "abouttext" !important; } }
 /* END: Imports */
 /**
  * =========================================
@@ -1076,6 +1097,10 @@ h5 {
 
 .portrait-container img {
   width: 165px; }
+
+.about-portrait {
+  float: left;
+  margin: 0 0 5px 0; }
 
 /* END: Elements */
 /**

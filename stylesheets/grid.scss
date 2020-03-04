@@ -137,6 +137,12 @@
    "gal04 gal05 gal06";
  }
 
+ .grid-about{
+   display: grid;
+   grid-template-columns: 165px 1fr;
+   grid-template-areas: 
+   "portraits abouttext";
+ }
 
 
  @media screen and (max-width: 895px){ 
@@ -242,6 +248,13 @@
       grid-template-columns: 1fr 1fr 1fr !important;
       grid-template-areas: "left middle right" !important;
    }
+
+   .grid-about{
+      grid-template-columns: 1fr !important;
+      grid-template-areas: 
+      "portraits"
+      "abouttext" !important;
+    }
     
  }
 
