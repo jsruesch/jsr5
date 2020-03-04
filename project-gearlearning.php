@@ -42,7 +42,7 @@
                 <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
                         <div class="full">
-                            <h3 class="text-gold">Video </h3>
+                            <h3 class="text-gold">Gear Website Design</h3>
                         </div>
                         <div class="full">
                             <p class="text-grey mar15-top">
@@ -57,6 +57,19 @@
                 <img class="full" src="img/projects/gear/gear-tough-mudder.png" alt="Gear Learning Tough Mudder Image">
                 <img class="full" src="img/projects/gear/gear-image-01.png" alt="Gear Learning Office Wall Image">
                 <img class="full" src="img/projects/gear/gear-booth-02.png" alt="Gear Learning SXSW Edu Booth">
+            </div>
+
+            <div class="full copy-container pad60  grid-vertical-align-content">
+                <div class="full">
+                    <div class="full">
+                        <h3 class="text-gold">Something Special</h3>
+                    </div>
+                    <div class="full">
+                        <p class="text-grey mar15-top">
+                        To say that I'm lucky to have worked with the people I've worked with over the years is an understatement. Truly some of the best, hardest working, talented, honest, loyal people I've ever met have worked along side me as we worked on building games to help make an impact in how people learn. The projects are really special to me and the people I worked with are family. I am blessed to have them in my life.
+                        </p>
+                    </div>
+                </div>
             </div>
 
             <div class="full grid-2col ggap5 mar5-bot">
