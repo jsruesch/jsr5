@@ -9,8 +9,8 @@
                 <p class="text-light text-grey text-caps left">Filter :</p>
                 <button type="button" class="control" data-filter="all"><p>All</p></button>
                 <button type="button" class="control" data-filter=".art-direction"><p>Art Direction</p></button>
-                <button type="button" class="control" data-filter=".game-ui"><p>UI</p></button>
                 <button type="button" class="control" data-filter=".graphic"><p>Graphic</p></button>
+                <button type="button" class="control" data-filter=".game-ui"><p>UI</p></button>
                 <button type="button" class="control" data-filter=".web"><p>Web</p></button>
             </div>
         </section>

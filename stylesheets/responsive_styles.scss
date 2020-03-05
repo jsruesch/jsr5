@@ -36,10 +36,10 @@
 
     .nav-link-mobile-container{ @include transition; display: block !important; }
 
-    .navigation-container{ height: 75px !important; }
+    .navigation-container{ height: 50px !important; }
     .nav-logo{
-        height:75px !important;
-        width: 92px !important;
+        height:50px !important;
+        width: 61px !important;
         background-size: cover !important;  
       }
 
@@ -50,8 +50,6 @@
         img{ @include transition; height: 35px !important; }
     } 
 
-    /* Header */
-    .header-catagories{ text-align: left !important; }
 
     /* Grid Components  */
     .wrapper-content{ padding-left: 20px; padding-right: 20px; }
@@ -77,6 +75,23 @@
         width: 100% !important; 
         margin: 0 5px 0 0 !important; 
     }
+
+    .sorting-controls{
+        text-align: center;
+        display: grid; 
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "left right";
+        p{
+            font-size: 1rem !important;
+        }
+        
+    }
+
+    /* Text Resizing */
+    .header-catagories{ 
+        text-align: left !important;
+        font-size: .9rem !important; 
+      } 
 
 }
 
