@@ -148,7 +148,7 @@
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
                 </div>
-            <!-- WIDA -->
+            <!-- WIDA
                 <div class="mix mgimg art-direction">
                     <a href="#0">
                         <img class="full" src="img/projects/wida/mg-wida-01.png"/>
@@ -157,7 +157,7 @@
                     <div class="b-right"></div>
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
-                </div>
+                </div> -->
             <!-- Night King -->
                 <div class="mix mgimg">
                     <a href="inc/archive/jsrarchive/" target="_blank">
