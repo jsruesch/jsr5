@@ -146,7 +146,7 @@
       // right: 0; 
       // top: 30px; 
       float: left;
-      width: 300px; 
+      width: 295px; 
       margin: 35px 0 0 -40px;  
 
       .nav-info-name{
@@ -154,7 +154,7 @@
         text-transform: uppercase; 
         font-size: 1.6875rem; 
         color: $gold; 
-        letter-spacing: 7px; 
+        letter-spacing: 5px; 
         text-align: right; 
         font-weight: 800;
       }
@@ -224,7 +224,7 @@
         color: $grey;
         font-weight: 800;
         font-size: 1.1rem;
-        letter-spacing: 0.3rem; 
+        letter-spacing: 0.2rem; 
 
         &:after, &:before{
           @include transition;
