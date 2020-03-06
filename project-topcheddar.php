@@ -23,19 +23,39 @@
             <div class="full copy-container pad60  grid-vertical-align-content">
                 <div class="full">
                     <div class="full">
-                        <h3 class="text-gold">The Symbol of Peace!</h3>
+                        <h3 class="text-gold">Sports League Management</h3>
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Trying to take my digital painting skills beyond plus ultra by painting my favorite character in the history of characters! 
+                        I worked along side two friends of mine to create <a href="http://topcheddartech.com/" target="_blank">Top Cheddar Technologies.</a> We saw a need for a robust, flexible, full-featured leage management system to replace the rigid, archaic system our hockey league used.
                         </p>
                     </div>
                 </div>
             </div>
             
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/allmight/allmight-closeup-01.png" alt="All Might Closeup Image">
+                <img class="full" src="img/projects/topcheddar/tct-standings.png" alt="All Might Closeup Image">
                 <img class="full" src="img/projects/topcheddar/mobile-01.png" alt="Mobile">
+            </div>
+
+            <div class="full copy-container pad60  grid-vertical-align-content">
+                <div class="full">
+                    <div class="full">
+                        <h3 class="text-gold">Full-Featured System</h3>
+                    </div>
+                    <div class="full">
+                        <p class="text-grey mar15-top">
+                        This league managment system comes complete with a drag and drop league draft system, real-time scorekeeping system that tracks multiple games' goals, assists, penalties, and other games stats, team stats and schedules, and individual player and goalie stats. This system is intuitive enough for anyone to use and built to work on any device. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="full grid-2col ggap-5 mar5-bot">
+                <img class="full" src="img/projects/topcheddar/tct-draft.png" alt="All Might Closeup Image">
+                <img class="full" src="img/projects/topcheddar/tct-scoresheet.png" alt="Mobile">
+                <img class="full" src="img/projects/topcheddar/tct-stats.png" alt="Mobile">
+                <img class="full" src="img/projects/topcheddar/tct-team.png" alt="Mobile">
             </div>
 
 
