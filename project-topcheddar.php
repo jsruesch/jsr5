@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/allmight/allmight-hero.png" alt="All Might Hero">
+                <img class="full" src="img/projects/topcheddar/topcheddar-hero.png" alt="All Might Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
