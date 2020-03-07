@@ -29,7 +29,7 @@
                         </div>
                         <div class="full">
                             <p class="text-grey mar15-top">
-                            I designed the brand and stream assets for <a href="https://www.twitch.tv/fuoco911" target="_blank">Twitch streamer Fuoco911</a>. As a die hard hockey player and volunteer firefighter it was important to him to capture those two features in the brand. You can catch him live on Twitch frequently throughout the week!
+                            I designed the brand and stream assets for <a href="https://www.twitch.tv/fuoco911" target="_blank">Twitch streamer Fuoco911</a>. As a die hard hockey player and volunteer firefighter, it was important to him to capture those two features in the brand. You can catch him live on Twitch frequently throughout the week!
                             </p>
                         </div>
                     </div>

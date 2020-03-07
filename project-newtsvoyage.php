@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        I wore many hats during the development of this project. As Art Director I directed a very small team with limited assets and resources in turning this project into a reality. I created the UI, launch trailer, many of the levels, and the promotional meterials for this project. The timeline for development was extremely short so working efficiently deciding what the most effective use of our time was paramount.
+                        I wore many hats during the development of this project. As Art Director I directed a very small team with limited assets and resources in turning this project into a reality. I created the UI, launch trailer, many of the levels, and the promotional materials for this project. The timeline for development was extremely short, so working efficiently to make the most of our time was paramount.
                         </p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                         </div>
                         <div class="full">
                             <p class="text-grey mar15-top">
-                            It was really important to me to craft an experience that appealed to a lot of different player types. Im a huge fan of games that have a really high skill ceiling so using different level and ship types I was able to help create an experience that checked that box for me while at the same time appealing to a player who has less gaming experience and prefers a more chill play experience.
+                            'm a huge fan of games that have a really high skill ceiling, so by using different level and ship types, I was able to help create an experience that checked that box for me. At the same time, the game remained appealing to a player who has less gaming experience and prefers a more chill play experience.
                             </p>
                         </div>
                     </div>

@@ -30,7 +30,7 @@
                             </div>
                             <div class="full mar20-bot">
                                 <p class="text-grey mar15-top">
-                                    As a surprise gift for my best friend I turned one of the logos from a Hammersnow Cup game into a huge movie poster and got it printed for him. It was a really nice opportunity to showcase the detail I put into these logos on a large-format medium. 
+                                As a surprise gift for my best friend, I turned one of the logos from a Hammersnow Cup game into a huge movie poster and got it printed for him. It was a really nice opportunity to showcase the detail I put into these logos on a large-format medium. 
                                 </p>
                             </div>
                             <div class="full">

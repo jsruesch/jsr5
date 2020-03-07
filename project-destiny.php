@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Over the last few years I've grown to love Destiny 2 and it's community. Ive made a bunch of new friends and have loved learning and growing as a player in the deep, immersive world Destiny 2 provides. When Destiny was chosen as the theme for our Core Skills Clinic Hammersnow Cup game I was giddy at the chance to make these logos. Inside jokes included, of course! Each of the characters featured here are modeled after actual people in my Destiny clan wearing their favorite gear sets!
+                        Over the last few years, I've grown to love Destiny 2 and its community. I've made a bunch of new friends and have loved learning and growing as a player in the deep, immersive world Destiny 2 provides. When Destiny was chosen as the theme for our Core Skills Clinic Hammersnow Cup game, I was giddy at the chance to make these logos. Inside jokes included, of course! Each of the characters featured here are modeled after actual people in my Destiny clan wearing their favorite gear sets!
                         </p>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Titans were the bane of my existence in pvp for the longest time. O.E.M., shoulder charge, striker, the list goes on. It was awful. Naturally I developed a distaste for the class. It gave me great joy adding a crayon snack pack to this illustration. The salt from Titan mains about an Arc subclass wearing exotic armor supposed to be used with the Void subclass was absolutely delicious as well (evil grin).
+                        Titans were the bane of my existence in pvp for the longest time. O.E.M., shoulder charge, striker, the list goes on. It was awful. Naturally, I developed a distaste for the class. It gave me great joy adding a crayon snack pack to this illustration. The salt from Titan mains about an Arc subclass wearing exotic armor supposed to be used with the Void subclass was absolutely delicious as well (evil grin).
                         </p>
                     </div>
                 </div>

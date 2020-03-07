@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        I designed the UI, created promotional materials, and created the trailer for the award-winning At Play in the Cosmos. A videogame designed to engage students taking the introductory astronomy course for nonscience majors. In the game, students confront challenges and fly missions that span the entire scope of the course, from basic physics through cosmology.
+                        I designed the UI, created promotional materials, and created the trailer for the award-winning At Play in the Cosmos: a videogame designed to engage students taking the introductory astronomy course for nonscience majors. In the game, students confront challenges and fly missions that span the entire scope of the course, from basic physics through cosmology.
                         </p>
                     </div>
                 </div>

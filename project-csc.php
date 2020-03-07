@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        I have been truly blessed to have been given the chance to teach the best sport on earth to people willing and eager to learn it. The Core Skills Clinic is where my co-coach and best friend Matt teach adult skaters how to play the great game of hockey. We start our 20-week sessions with the basics and by the end of the session we're covering complex systems. It truly is a very special place. As I always tell our players, I always leave this place with a big, fat smile on my face.
+                        I have been truly blessed to have been given the chance to teach the best sport on earth to people willing and eager to learn it. The Core Skills Clinic is where my co-coach and best friend Matt and I teach adult skaters how to play the great game of hockey. We start our 20-week sessions with the basics and by the end of the session we're covering complex systems. It truly is a very special place. As I always tell our players, I always leave this place with a big, fat smile on my face.
                         </p>
                     </div>
 
@@ -90,7 +90,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Some of our skaters have been and may never have the chance to play on the big stage for something that really means something to them. This is where the idea for the Hammersnow Cup game stemmed from. Coach Matt and I wanted to finish each session with something special. There are custom jerseys, refs, scorekeepers, announcers, medals, an MVP trophy, and the chance to get your name permanently engrained on the Legendary Hammersnow Cup of Eternal Glory. 
+                        Some of our skaters have been and may never have the chance to play on the big stage for something that really means something to them. This is where the idea for the Hammersnow Cup game stemmed from. Coach Matt and I wanted to finish each session with something special. There are custom jerseys, refs, scorekeepers, announcers, medals, an MVP trophy, and the chance to get your name permanently engraved on the Legendary Hammersnow Cup of Eternal Glory. 
                         </p>
                     </div>
                 </div>

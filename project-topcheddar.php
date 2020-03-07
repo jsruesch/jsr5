@@ -27,7 +27,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        I worked along side two friends of mine to create <a href="http://topcheddartech.com/" target="_blank">Top Cheddar Technologies.</a> We saw a need for a robust, flexible, full-featured leage management system to replace the rigid, archaic system our hockey league used.
+                        I worked along side two friends of mine to create <a href="http://topcheddartech.com/" target="_blank">Top Cheddar Technologies.</a> We saw a need for a robust, flexible, full-featured league management system to replace the rigid, archaic system our hockey league used.
                         </p>
                     </div>
                 </div>
