@@ -35,7 +35,7 @@
             
             <div class="full grid-2col ggap5 mar5-bot">
                 <img class="full" src="img/projects/allmight/allmight-closeup-01.png" alt="All Might Closeup Image">
-                <img class="full" src="img/projects/allmight/allmight-process.gif" alt="All Might Process Sequence">
+                <img class="full" src="img/projects/allmight/allmight-process-optimized.gif" alt="All Might Process Sequence">
             </div>
 
 
