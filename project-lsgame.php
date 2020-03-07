@@ -72,9 +72,9 @@
             </div>
 
             <div class="full grid-3col ggap-5 mar5-bot">
-                <img class="full" src="img/projects/quest/lsgame-levelselectclip.gif" alt="Lifespan Game Level Select Gif">
+                <img class="full" src="img/projects/quest/lsgame-levelselectclip-optimized.gif" alt="Lifespan Game Level Select Gif">
                 <img class="full" src="img/projects/quest/lsgame-responsive.png" alt="Lifespan Game Responsive Example">
-                <img class="full" src="img/projects/quest/lsgame-gotcandy.gif" alt="Lifespan Game Got Candy">
+                <img class="full" src="img/projects/quest/lsgame-gotcandy-optimized.gif" alt="Lifespan Game Got Candy">
             </div>
 
             <div class="full">
