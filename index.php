@@ -51,7 +51,7 @@
             <!-- Destiny -->
                 <div class="mix mgimg art-direction  grahpic">
                     <a href="project-destiny.php">
-                        <img class="full" src="img/projects/destiny/mg-destiny-gif.gif"/>
+                        <img class="full" src="img/projects/destiny/mg-destiny-gif-optimized.gif"/>
                     </a>
                     <div class="b-top"></div>
                     <div class="b-right"></div>
