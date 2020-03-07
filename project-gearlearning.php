@@ -38,7 +38,7 @@
             </div>
             
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/gear/gear-web.gif" alt="Gear Learning Responsive Web Sequence">
+                <img class="full" src="img/projects/gear/gear-web-02-optimized.gif" alt="Gear Learning Responsive Web Sequence">
                 <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
                         <div class="full">
@@ -74,7 +74,7 @@
 
             <div class="full grid-2col ggap5 mar5-bot">
                 <img class="full" src="img/projects/gear/gear-mosaic.png" alt="Gear Learning Intro Sequence">
-                <img class="full" src="img/projects/gear/gear-intro.gif" alt="Gear Learning Intro Sequence">
+                <img class="full pad30" src="img/projects/gear/gear-intro-02-optimized.gif" alt="Gear Learning Intro Sequence">
             </div>
 
 
