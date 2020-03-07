@@ -38,7 +38,7 @@
                 <img class="full" src="img/projects/the-card-table/card-table-lineup.png" alt="The Card Table Visual Lineup">
             </div>
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/the-card-table/card-table-mobile.gif" alt="The Card Table Outdoor Image">
+                <img class="full" src="img/projects/the-card-table/card-table-mobile-optimized.gif" alt="The Card Table Outdoor Image">
                 <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
                         <div class="full">
