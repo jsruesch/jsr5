@@ -29,6 +29,12 @@
                         <p class="text-grey mar15-top">
                         I wore many hats during the development of this project. As Art Director I directed a very small team with limited assets and resources in turning this project into a reality. I created the UI, launch trailer, many of the levels, and the promotional materials for this project. The timeline for development was extremely short, so working efficiently to make the most of our time was paramount.
                         </p>
+                        <p class="text-grey mar15-top">
+                        Newt's Voyage is available to play for <u>free</u> on 
+                        <a href="https://store.steampowered.com/app/1042460/Newts_Voyage/" target="_blank">Steam</a>, 
+                        <a href="https://play.google.com/store/apps/details?id=org.gearlearning.newtsvoyage" target="_blank">Google Play Store</a>, and 
+                        <a href="https://apps.apple.com/us/app/newts-voyage/id1441893141" target="_blank">Apple Store</a>!
+                        </p>
                     </div>
                 </div>
             </div>
