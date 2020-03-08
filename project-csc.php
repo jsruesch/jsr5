@@ -90,7 +90,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        Some of our skaters have been and may never have the chance to play on the big stage for something that really means something to them. This is where the idea for the Hammersnow Cup game stemmed from. Coach Matt and I wanted to finish each session with something special. There are custom jerseys, refs, scorekeepers, announcers, medals, an MVP trophy, and the chance to get your name permanently engraved on the Legendary Hammersnow Cup of Eternal Glory. 
+                        Some of our skaters haven't had, and may never have the chance to play on the big stage for something that really means something to them. This is where the idea for the Hammersnow Cup game stemmed from. Coach Matt and I wanted to finish each session with something special. There are custom jerseys, refs, scorekeepers, announcers, medals, an MVP trophy, and the chance to get your name permanently engraved on the Legendary Hammersnow Cup of Eternal Glory. 
                         </p>
                     </div>
                 </div>

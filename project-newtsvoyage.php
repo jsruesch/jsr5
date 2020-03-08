@@ -52,7 +52,7 @@
                         </div>
                         <div class="full">
                             <p class="text-grey mar15-top">
-                            'm a huge fan of games that have a really high skill ceiling, so by using different level and ship types, I was able to help create an experience that checked that box for me. At the same time, the game remained appealing to a player who has less gaming experience and prefers a more chill play experience.
+                            I'm a huge fan of games that have a really high skill ceiling, so by using different level and ship types, I was able to help create an experience that checked that box for me. At the same time, the game remained appealing to a player who has less gaming experience and prefers a more chill play experience.
                             </p>
                         </div>
                     </div>
