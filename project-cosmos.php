@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/cosmos/cosmos-hero.png" alt="At Play in the Cosmos Hero">
+                <img class="full" src="img/projects/cosmos/cosmos-hero-opt.jpg" alt="At Play in the Cosmos Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -34,7 +34,7 @@
             </div>
 
             <div class="full mar20-bot">
-                <img class="full" src="img/projects/cosmos/cosmos-icons.png" alt="At Play in the Cosmos Icon Set">
+                <img class="full" src="img/projects/cosmos/cosmos-icons-opt.jpg" alt="At Play in the Cosmos Icon Set">
             </div>
 
             <div class="full mar30-bot">                
@@ -60,12 +60,12 @@
             </div>
 
             <div class="full grid-3col ggap-5 mar5-bot">
-                <img class="full" src="img/projects/cosmos/comet-flight.png" alt="At Play in the Cosmos Comet Flight Image">
-                <img class="full" src="img/projects/cosmos/comet-starchart.png" alt="At Play in the Cosmos Comet Star Chart Image">
-                <img class="full" src="img/projects/cosmos/cosmos-flight.jpg" alt="At Play in the Cosmos Flight Image">
-                <img class="full" src="img/projects/cosmos/cosmos_ss_05.jpg" alt="At Play in the Cosmos Flight Image">
-                <img class="full" src="img/projects/cosmos/part_02_mission_select_screen.jpg" alt="At Play in the Cosmos Flight Image">
-                <img class="full" src="img/projects/cosmos/fast_travel_concept_01.jpg" alt="At Play in the Cosmos Flight Image">
+                <img class="full" src="img/projects/cosmos/comet-flight-opt.jpg" alt="At Play in the Cosmos Comet Flight Image">
+                <img class="full" src="img/projects/cosmos/comet-starchart-opt.jpg" alt="At Play in the Cosmos Comet Star Chart Image">
+                <img class="full" src="img/projects/cosmos/cosmos-flight-opt.jpg" alt="At Play in the Cosmos Flight Image">
+                <img class="full" src="img/projects/cosmos/cosmos_ss_05-opt.jpg" alt="At Play in the Cosmos Flight Image">
+                <img class="full" src="img/projects/cosmos/part_02_mission_select_screen-opt.jpg" alt="At Play in the Cosmos Flight Image">
+                <img class="full" src="img/projects/cosmos/fast_travel_concept_01-opt.jpg" alt="At Play in the Cosmos Flight Image">
             </div>
 
 
