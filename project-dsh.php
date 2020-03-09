@@ -20,7 +20,7 @@
             <div class="grid-2col ggap-5 mar5-bot">
                 <!-- Poster Image -->
                 <div class="full">
-                    <img class="full" src="img/projects/gundam/dsh-poster-01.png" alt="Deathscythe Hell Poster">
+                    <img class="full" src="img/projects/gundam/dsh-poster-01-opt.jpg" alt="Deathscythe Hell Poster">
                 </div>
                 <div class="full">
                     <div class="full copy-container pad60 grid-vertical-align-content">
@@ -34,7 +34,7 @@
                                 </p>
                             </div>
                             <div class="full">
-                                <img class="full" src="img/projects/gundam/dsh-bust.png" alt="Deathscythe Hell Bust Detail">
+                                <img class="full" src="img/projects/gundam/dsh-bust-opt.jpg" alt="Deathscythe Hell Bust Detail">
                             </div>
                         </div>
                     </div>
@@ -42,8 +42,8 @@
             </div>
 
             <div class="grid-2col ggap-5 mar10-bot">
-                <img class="full" src="img/projects/gundam/dsh-headshot.png" alt="Deathscythe Hell Headshot Detail">
-                <img class="full" src="img/projects/gundam/dsh-scythe-detail.png" alt="Deathscythe Hell Scythe Detail">
+                <img class="full" src="img/projects/gundam/dsh-headshot-opt.jpg" alt="Deathscythe Hell Headshot Detail">
+                <img class="full" src="img/projects/gundam/dsh-scythe-detail-opt.jpg" alt="Deathscythe Hell Scythe Detail">
             </div>
 
         </section>
