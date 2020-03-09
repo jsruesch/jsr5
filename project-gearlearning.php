@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/gear/gear-hero.png" alt="Gear Learning Hero">
+                <img class="full" src="img/projects/gear/gear-hero.jpg" alt="Gear Learning Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -34,7 +34,7 @@
             </div>
 
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/gear/gear-lineup.png" alt="Gear Logo Lineup">
+                <img class="full" src="img/projects/gear/gear-lineup.jpg" alt="Gear Logo Lineup">
             </div>
             
             <div class="full grid-2col ggap5 mar5-bot">
@@ -54,9 +54,9 @@
             </div>
 
             <div class="full grid-3col ggap5 mar5-bot">
-                <img class="full" src="img/projects/gear/gear-tough-mudder.png" alt="Gear Learning Tough Mudder Image">
-                <img class="full" src="img/projects/gear/gear-image-01.png" alt="Gear Learning Office Wall Image">
-                <img class="full" src="img/projects/gear/gear-booth-02.png" alt="Gear Learning SXSW Edu Booth">
+                <img class="full" src="img/projects/gear/gear-tough-mudder.jpg" alt="Gear Learning Tough Mudder Image">
+                <img class="full" src="img/projects/gear/gear-image-01.jpg" alt="Gear Learning Office Wall Image">
+                <img class="full" src="img/projects/gear/gear-booth-02.jpg" alt="Gear Learning SXSW Edu Booth">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -73,7 +73,7 @@
             </div>
 
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/gear/gear-mosaic.png" alt="Gear Learning Intro Sequence">
+                <img class="full" src="img/projects/gear/gear-mosaic.jpg" alt="Gear Learning Intro Sequence">
                 <img class="full pad30" src="img/projects/gear/gear-intro-02-optimized.gif" alt="Gear Learning Intro Sequence">
             </div>
 
