@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/econauts/econauts-hero-01.png" alt="Newts Voyage Hero">
+                <img class="full" src="img/projects/econauts/econauts-hero-01-opt.jpg" alt="Newts Voyage Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -35,12 +35,12 @@
             
             <div class="full grid-2col ggap-5 mar10-bot">
                 
-               <img class="full" src="img/projects/econauts/econauts_01.png" alt="Econauts UI Screenshot">
-               <img class="full" src="img/projects/econauts/econauts_02.png" alt="Econauts UI Screenshot">
-               <img class="full" src="img/projects/econauts/econauts_03.png" alt="Econauts UI Screenshot">
-               <img class="full" src="img/projects/econauts/econauts_04.png" alt="Econauts UI Screenshot">
-               <img class="full" src="img/projects/econauts/econauts_05.png" alt="Econauts UI Screenshot">
-               <img class="full" src="img/projects/econauts/econauts_06.png" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_01-opt.jpg" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_02-opt.jpg" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_03-opt.jpg" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_04-opt.jpg" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_05-opt.jpg" alt="Econauts UI Screenshot">
+               <img class="full" src="img/projects/econauts/econauts_06-opt.jpg" alt="Econauts UI Screenshot">
             </div>
             
         </section>
