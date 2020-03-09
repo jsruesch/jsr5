@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/destiny/destiny-logo-lineup-01.png" alt="Destiny : CLB Logo Lineup">
+                <img class="full" src="img/projects/destiny/destiny-logo-lineup-01-opt.jpg" alt="Destiny : CLB Logo Lineup">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -35,13 +35,13 @@
 
         <!-- Titans -->
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/destiny/destiny-titan-01.png" alt="Destiny : Titans Logo">
+                <img class="full" src="img/projects/destiny/destiny-titan-01-opt.jpg" alt="Destiny : Titans Logo">
             </div>
             <div class="full grid-2col ggap-5">
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-titan-02.png" alt="Destiny : Titans Closeup 01"></div>
+                    <img class="full" src="img/projects/destiny/destiny-titan-02-opt.jpg" alt="Destiny : Titans Closeup 01"></div>
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-titan-03.png" alt="Destiny : Titans Closeup 01"></div>
+                    <img class="full" src="img/projects/destiny/destiny-titan-03-opt.jpg" alt="Destiny : Titans Closeup 01"></div>
             </div><!-- END: Titans -->
             <div class="full copy-container pad60  grid-vertical-align-content">
                 <div class="full">
@@ -58,29 +58,29 @@
 
         <!-- Warlocks -->
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/destiny/destiny-warlocks-01.png" alt="Destiny : Warlocks Logo">
+                <img class="full" src="img/projects/destiny/destiny-warlocks-01-opt.jpg" alt="Destiny : Warlocks Logo">
             </div>
             <div class="full grid-2col ggap-5 mar5-bot">
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-warlocks-02.png" alt="Destiny : Warlocks Closeup 01"></div>
+                    <img class="full" src="img/projects/destiny/destiny-warlocks-02-opt.jpg" alt="Destiny : Warlocks Closeup 01"></div>
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-warlocks-03.png" alt="Destiny : Warlocks Closeup 02"></div>
+                    <img class="full" src="img/projects/destiny/destiny-warlocks-03-opt.jpg" alt="Destiny : Warlocks Closeup 02"></div>
             </div><!-- END: Warlocks -->
 
         <!-- Hunters -->
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/destiny/destiny-hunters-01.png" alt="Destiny : Hunters Logo">
+                <img class="full" src="img/projects/destiny/destiny-hunters-01-opt.jpg" alt="Destiny : Hunters Logo">
             </div>
             <div class="full grid-2col ggap-5 mar5-bot">
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-hunters-02.png" alt="Destiny : Hunters Closeup 01"></div>
+                    <img class="full" src="img/projects/destiny/destiny-hunters-02-opt.jpg" alt="Destiny : Hunters Closeup 01"></div>
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-hunters-03.png" alt="Destiny : Hunters Closeup 02"></div>
+                    <img class="full" src="img/projects/destiny/destiny-hunters-03-opt.jpg" alt="Destiny : Hunters Closeup 02"></div>
             </div><!-- END: Hunters -->
 
             <div class="full grid-2col ggap-5">
                 <div class="full">
-                    <img class="full" src="img/projects/destiny/destiny-platinum-corndog.png" alt="Destiny : Platinum Cordog"></div>
+                    <img class="full" src="img/projects/destiny/destiny-platinum-corndog-opt.jpg" alt="Destiny : Platinum Cordog"></div>
                     <div class="full copy-container pad60  grid-vertical-align-content">
                 <div class="full">
                     <div class="full">
