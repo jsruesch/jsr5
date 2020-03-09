@@ -17,11 +17,11 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/fuoco/fuoco-hero.png" alt="Fuoco911 Hero">
+                <img class="full" src="img/projects/fuoco/fuoco-hero-opt.jpg" alt="Fuoco911 Hero">
             </div>
             
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/fuoco/fuoco-nowlive.png" alt="Fuoco Now Live">
+                <img class="full" src="img/projects/fuoco/fuoco-nowlive-opt.jpg" alt="Fuoco Now Live">
                 <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
                         <div class="full">
@@ -37,7 +37,7 @@
             </div>
 
             <div class="full">
-                <img class="full" src="img/projects/fuoco/fuoco-twitchassets.png" alt="Fuoco911 Twitch Assets">
+                <img class="full" src="img/projects/fuoco/fuoco-twitchassets-opt.jpg" alt="Fuoco911 Twitch Assets">
             </div>
 
         </section>
