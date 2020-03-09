@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/newts/newts-hero-01.png" alt="Newts Voyage Hero">
+                <img class="full" src="img/projects/newts/newts-hero-01-opt.jpg" alt="Newts Voyage Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -44,7 +44,7 @@
             </div>
 
             <div class="full grid-2col ggap5 mar5-bot">
-                <img class="full" src="img/projects/newts/nv-ss-16x9-07.jpg" alt="Newts Screenshot 01">
+                <img class="full" src="img/projects/newts/nv-ss-16x9-07-opt.jpg" alt="Newts Screenshot 01">
                 <div class="full copy-container pad60  grid-vertical-align-content">
                     <div class="full">
                         <div class="full">
@@ -60,10 +60,10 @@
             </div>
 
             <div class="full grid-2col ggap-5 mar5-bot">
-                <img class="full" src="img/projects/newts/nv-ss-16x9-01.jpg" alt="Newts Screenshot 01">
-                <img class="full" src="img/projects/newts/nv-ss-16x9-04.jpg" alt="Newts Screenshot 01">
-                <img class="full" src="img/projects/newts/trinitas.png" alt="Newts Screenshot 01">
-                <img class="full" src="img/projects/newts/nv-ss-16x9-02.jpg" alt="Newts Screenshot 01">
+                <img class="full" src="img/projects/newts/nv-ss-16x9-01-opt.jpg" alt="Newts Screenshot 01">
+                <img class="full" src="img/projects/newts/nv-ss-16x9-04-opt.jpg" alt="Newts Screenshot 01">
+                <img class="full" src="img/projects/newts/trinitas-opt.jpg" alt="Newts Screenshot 01">
+                <img class="full" src="img/projects/newts/nv-ss-16x9-02-opt.jpg" alt="Newts Screenshot 01">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -73,7 +73,7 @@
                     </div>
                     <div class="full">
                         <p class="text-grey mar15-top">
-                        The soundtrack for Newt's Voyage was provided by the incredibly talented electronic music artist <a href="https://hubrid54.bandcamp.com/music" target="_blank">Hubrid</a>. Head over to <a href="https://hubrid54.bandcamp.com/music" target="_blank">their bandcamp page</a> and listen to more of their awesome discography.
+                        The soundtrack for Newt's Voyage was provided by the incredibly talented electronic music artist Hubrid. Head over to <a href="https://hubrid54.bandcamp.com/music" target="_blank">their bandcamp page</a> and listen to more of their awesome discography.
                         </p>
                     </div>
                 </div>
