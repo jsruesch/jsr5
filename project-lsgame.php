@@ -20,7 +20,7 @@
             <div class="grid-2col ggap-5">
                 <!-- Poster Image -->
                 <div class="full">
-                    <img class="full" src="img/projects/quest/lsgame-poster-image.png" alt="Lifespan Game Poster Image">
+                    <img class="full" src="img/projects/quest/lsgame-poster-image-opt.jpg" alt="Lifespan Game Poster Image">
                 </div>
                 <div class="full">
                     <div class="full copy-container pad60 grid-vertical-align-content">
@@ -37,11 +37,11 @@
                                 </p>
                             </div>
                             <div class="full mar5-bot">
-                                <img class="full" src="img/projects/quest/lsgame-carnival.jpg" alt="Lifespan Game Carnival Level">
+                                <img class="full" src="img/projects/quest/lsgame-carnival-opt.jpg" alt="Lifespan Game Carnival Level">
                             </div>
                             
                             <div class="full">
-                                <img class="full" src="img/projects/quest/lsgame-beach.jpg" alt="Lifespan Game Beach Level">
+                                <img class="full" src="img/projects/quest/lsgame-beach-opt.jpg" alt="Lifespan Game Beach Level">
                             </div>
                         </div>
                     </div>
@@ -51,12 +51,12 @@
             <!-- Level Overviews -->
             <div class="full">
                 <div class="full grid-3col-2col-mobile ggap-5 mar5-top">
-                    <img class="full" src="img/projects/quest/lsgame-casino.jpg" alt="Lifespan Game Casino Level">
-                    <img class="full" src="img/projects/quest/lsgame-halloween.jpg" alt="Lifespan Game Halloween Level">
-                    <img class="full" src="img/projects/quest/lsgame-hospital.jpg" alt="Lifespan Game Hospital Level">
-                    <img class="full" src="img/projects/quest/lsgame-museum.jpg" alt="Lifespan Game Museum Level">
-                    <img class="full" src="img/projects/quest/lsgame-military.jpg" alt="Lifespan Game Military Level">
-                    <img class="full" src="img/projects/quest/lsgame-infancy.jpg" alt="Lifespan Game Infancy Level">
+                    <img class="full" src="img/projects/quest/lsgame-casino-opt.jpg" alt="Lifespan Game Casino Level">
+                    <img class="full" src="img/projects/quest/lsgame-halloween-opt.jpg" alt="Lifespan Game Halloween Level">
+                    <img class="full" src="img/projects/quest/lsgame-hospital-opt.jpg" alt="Lifespan Game Hospital Level">
+                    <img class="full" src="img/projects/quest/lsgame-museum-opt.jpg" alt="Lifespan Game Museum Level">
+                    <img class="full" src="img/projects/quest/lsgame-military-opt.jpg" alt="Lifespan Game Military Level">
+                    <img class="full" src="img/projects/quest/lsgame-infancy-opt.jpg" alt="Lifespan Game Infancy Level">
                 </div>
             </div>
             
@@ -73,12 +73,12 @@
 
             <div class="full grid-3col ggap-5 mar5-bot">
                 <img class="full" src="img/projects/quest/lsgame-levelselectclip-optimized.gif" alt="Lifespan Game Level Select Gif">
-                <img class="full" src="img/projects/quest/lsgame-responsive.png" alt="Lifespan Game Responsive Example">
+                <img class="full" src="img/projects/quest/lsgame-responsive-opt.jpg" alt="Lifespan Game Responsive Example">
                 <img class="full" src="img/projects/quest/lsgame-gotcandy-optimized.gif" alt="Lifespan Game Got Candy">
             </div>
 
             <div class="full">
-                <img class="full" src="img/projects/quest/lsgame-iconset.png" alt="Lifespan Game Icon Set">
+                <img class="full" src="img/projects/quest/lsgame-iconset-opt.png" alt="Lifespan Game Icon Set">
             </div>
         
         </section>
