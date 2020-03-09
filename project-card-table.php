@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/the-card-table/card-table-hero.png" alt="The Card Table Hero Banner">
+                <img class="full" src="img/projects/the-card-table/card-table-hero-opt.jpg" alt="The Card Table Hero Banner">
             </div>
             <div class="full copy-container pad60">
                 <div class="full">
@@ -33,9 +33,9 @@
                 </div>
             </div>
             <div class="full grid-3col ggap-5 mar5-bot">
-                <img class="full" src="img/projects/the-card-table/card-table-icon-lightdark.png" alt="The Card Icon">
-                <img class="full" src="img/projects/the-card-table/card-table-sign.png" alt="The Card Table Outdoor Image">
-                <img class="full" src="img/projects/the-card-table/card-table-lineup.png" alt="The Card Table Visual Lineup">
+                <img class="full" src="img/projects/the-card-table/card-table-icon-lightdark-opt.jpg" alt="The Card Icon">
+                <img class="full" src="img/projects/the-card-table/card-table-sign-opt.jpg" alt="The Card Table Outdoor Image">
+                <img class="full" src="img/projects/the-card-table/card-table-lineup-opt.jpg" alt="The Card Table Visual Lineup">
             </div>
             <div class="full grid-2col ggap5 mar5-bot">
                 <img class="full" src="img/projects/the-card-table/card-table-mobile-optimized.gif" alt="The Card Table Outdoor Image">
@@ -53,8 +53,8 @@
                 </div>
             </div>
             <div class="full grid-2col ggap-5">
-                <img class="full" src="img/projects/the-card-table/card-table-menu-01.png" alt="The Card Table Menu Cover">
-                <img class="full" src="img/projects/the-card-table/card-table-menu-02.png" alt="The Card Table Menu Inside">
+                <img class="full" src="img/projects/the-card-table/card-table-menu-01-opt.jpg" alt="The Card Table Menu Cover">
+                <img class="full" src="img/projects/the-card-table/card-table-menu-02-opt.jpg" alt="The Card Table Menu Inside">
             </div>
         </section>
     </div>
