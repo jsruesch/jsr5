@@ -17,7 +17,7 @@
 
         <section class="project-content">
             <div class="full mar5-bot">
-                <img class="full" src="img/projects/nightking/nightking-hero.png" alt="Kind of the Pond Hero">
+                <img class="full" src="img/projects/nightking/nightking-hero-opt.jpg" alt="King of the Pond Hero">
             </div>
 
             <div class="full copy-container pad60  grid-vertical-align-content">
@@ -35,8 +35,8 @@
             
             <div class="full grid-2col ggap-5 mar10-bot">
                 
-                <img class="full" src="img/projects/nightking/nightking-jerseys.png" alt="Deathscythe Hell Scythe Detail">
-                <img class="full" src="img/projects/nightking/nightking-01.png" alt="Night King Jersey Closeup">
+                <img class="full" src="img/projects/nightking/nightking-jerseys-opt.jpg" alt="Night King Jersey Mockups">
+                <img class="full" src="img/projects/nightking/nightking-01-opt.jpg" alt="Night King Jersey Closeup">
             </div>
             
         </section>
