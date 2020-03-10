@@ -28,7 +28,7 @@
                     <a href="http://thecardtablerestaurant.com/" target="_blank">The Card Table</a> is a restaurant located inside the Sun Prairie Ice Arena in Sun Prairie, WI. The Card Table offers a family-friendly environment, casual yet creative food, and unique location. 
                     <br/>
                     <br/>
-                    This project presented a few unique challenges. The brand needed to be designed to attract a really wide range of customers. It was a fun challange finding an aesthetic that hits that sweet spot between something that'd attract the typical rink-going clientele as well as the general public. 
+                    This project presented a few unique challenges. The brand needed to be designed to attract a really wide range of customers. It was a fun challenge finding an aesthetic that hits that sweet spot between something that'd attract the typical rink-going clientele as well as the general public. 
                     </p>
                 </div>
             </div>
