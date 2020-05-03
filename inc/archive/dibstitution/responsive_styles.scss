@@ -1,0 +1,29 @@
+
+
+@import 'mixins';
+
+/* Small Screens */
+@media screen and (max-width:768px){
+  body{
+    padding-top: 0;
+  }
+  .mc{
+    padding: 30px !important;
+  }
+  .header{
+    font-size: 30px !important;
+  }
+}
+
+/* Devices */
+@media (max-device-width:768px){
+  body{
+    padding-top: 0;
+  }
+  .mc{
+    padding: 30px !important;
+  }
+  .header{
+    font-size: 30px !important;
+  }
+}
