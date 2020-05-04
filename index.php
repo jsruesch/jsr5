@@ -18,7 +18,7 @@
     <!-- Main Gallery -->
         <section>
             <div class="grid-main-gallery">
-            <!-- SolidStack -->
+            <!-- SolidStack 
                 <div class="mgimg mix art-direction graphic web">
                     <a href="project-solidstack.php">
                         <img class="full" src="img/projects/solidstack/mg-solidstack-01.png"/>
@@ -27,7 +27,7 @@
                     <div class="b-right"></div>
                     <div class="b-bottom"></div>
                     <div class="b-left"></div>
-                </div>
+                </div>-->
             <!-- Gear -->
                 <div class="mgimg mix art-direction graphic web">
                     <a href="project-gearlearning.php">
