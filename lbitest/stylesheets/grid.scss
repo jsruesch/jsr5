@@ -251,13 +251,13 @@
       
       .grid-5col-2col-m{
          display: grid; 
-         grid-template-columns: 1fr 1fr !important;
+         grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
          grid-template-areas: "left right" !important;
       }
       
       .grid-6col-2col-m{
          display: grid; 
-         grid-template-columns: 1fr 1fr !important;
+         grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
          grid-template-areas: "left right" !important;
       }
  }

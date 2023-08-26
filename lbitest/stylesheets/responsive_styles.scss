@@ -76,6 +76,15 @@
     }
     .mischief-content{ padding: 40px !important; }
 
+
+    
+  .border-01{
+    border-image-slice: 60 !important; 
+    border-width: 30px !important; 
+    padding: -30px !important; 
+    margin-bottom: -60px; 
+  }
+
     .border-02{
         border-image-slice: 30; 
         border-width: 30px !important; 
@@ -99,7 +108,7 @@
     }  
 
     .mayhem-header{
-        margin: 0px 0px -20px 0px !important;
+        margin: 0px 0px -20px 0px !important; 
 
         img{
             height: auto !important; 
@@ -115,8 +124,7 @@
     }
     .mayhem-spacer{ height: 25vh !important; }
 
-    
-    
+
 
     //  Leadership
     .leadership-header{
@@ -128,13 +136,13 @@
         }
     } 
     .leadership-name{
-        font-size: 2rem !important;
+        font-size: 1.8rem !important;
         line-height: 30px !important; 
         margin-bottom: -15px !important; 
     }
 
     .leadership-title{
-        font-size: 1.5rem !important;
+        font-size: 1.25rem !important;
         line-height: 25px !important;
     }
     // End Leadership

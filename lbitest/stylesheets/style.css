@@ -762,6 +762,12 @@ h1, h2, h3, h4, h5, p {
   .mischief-content {
     padding: 40px !important; }
 
+  .border-01 {
+    border-image-slice: 60 !important;
+    border-width: 30px !important;
+    padding: -30px !important;
+    margin-bottom: -60px; }
+
   .border-02 {
     border-image-slice: 30;
     border-width: 30px !important;
@@ -807,12 +813,12 @@ h1, h2, h3, h4, h5, p {
       max-width: 100% !important; }
 
   .leadership-name {
-    font-size: 2rem !important;
+    font-size: 1.8rem !important;
     line-height: 30px !important;
     margin-bottom: -15px !important; }
 
   .leadership-title {
-    font-size: 1.5rem !important;
+    font-size: 1.25rem !important;
     line-height: 25px !important; }
 
   .tagline {
@@ -2041,12 +2047,12 @@ section {
 
   .grid-5col-2col-m {
     display: grid;
-    grid-template-columns: 1fr 1fr !important;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
     grid-template-areas: "left right" !important; }
 
   .grid-6col-2col-m {
     display: grid;
-    grid-template-columns: 1fr 1fr !important;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
     grid-template-areas: "left right" !important; } }
 /* END: Imports */
 /**
@@ -2632,7 +2638,7 @@ img {
   margin-top: -12px; }
 
 .border-01 {
-  height: 100%;
+  height: auto;
   width: 100%;
   float: left;
   border-image: url(../img/9s-border-01.png);
@@ -2642,8 +2648,7 @@ img {
 
 .border-01-content {
   width: 100%;
-  float: left;
-  margin: -30px -30px -100px -30px; }
+  float: left; }
 
 .border-02 {
   height: 100%;
