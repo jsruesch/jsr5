@@ -56,7 +56,8 @@
     .intro-header{
         margin-top: -60px !important;     
         img{
-            height: 60px !important;
+            height: auto !important; 
+            max-width: 100% !important; 
         }
     }
 
@@ -67,7 +68,12 @@
         }
     } 
     
-    .mischief-header{ img{ height: 80px !important;  } }
+    .mischief-header{ 
+        img{ 
+            height: auto !important; 
+            max-width: 100% !important;   
+        } 
+    }
     .mischief-content{ padding: 40px !important; }
 
     .border-02{
@@ -96,7 +102,8 @@
         margin: 0px 0px -20px 0px !important;
 
         img{
-            height: 90px !important; 
+            height: auto !important; 
+            max-width: 100% !important; 
         }
     } 
     .mayhem-grid{
@@ -109,15 +116,17 @@
     .mayhem-spacer{ height: 25vh !important; }
 
     
+    
+
+    //  Leadership
     .leadership-header{
         margin: 0px 0px -20px 0px !important;
 
         img{
-            height: 60px !important; 
+            height: auto !important; 
+            max-width: 100% !important; 
         }
     } 
-
-    //  Leadership
     .leadership-name{
         font-size: 2rem !important;
         line-height: 30px !important; 
@@ -163,7 +172,8 @@
     .intro-header{
         margin-top: -80px !important;     
         img{
-            height: 100px !important;
+            height: auto !important; 
+            max-width: 100% !important; 
         }
     }
 
@@ -212,7 +222,8 @@
     .mayhem-header{
         margin: 0px 0px -20px 0px !important;
         img{
-            height: 90px !important; 
+            height: auto !important; 
+            max-width: 100% !important;  
         }
     } 
     .mayhem-grid{
@@ -225,6 +236,14 @@
     .mayhem-spacer{ height: 25vh !important; }
 
     //  Leadership
+    .leadership-header{
+        margin: 0px 0px -20px 0px !important;
+
+        img{
+            height: auto !important; 
+            max-width: 100% !important; 
+        }
+    } 
     .leadership-name{
         font-size: 2rem !important;
         line-height: 30px !important; 
@@ -242,6 +261,13 @@
       }
 
     .stat-nudge{ margin-top: 0px !important; }
+
+    .mischief-header{ 
+        img{ 
+            height: auto !important; 
+            max-width: 100% !important;   
+        } 
+    }
 
  }
 

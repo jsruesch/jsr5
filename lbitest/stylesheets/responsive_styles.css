@@ -412,7 +412,8 @@ h1, h2, h3, h4, h5, p {
   .intro-header {
     margin-top: -60px !important; }
     .intro-header img {
-      height: 60px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .magic-header {
     margin: 0 0 -20px 0 !important; }
@@ -420,7 +421,8 @@ h1, h2, h3, h4, h5, p {
       height: 80px !important; }
 
   .mischief-header img {
-    height: 80px !important; }
+    height: auto !important;
+    max-width: 100% !important; }
 
   .mischief-content {
     padding: 40px !important; }
@@ -450,7 +452,8 @@ h1, h2, h3, h4, h5, p {
   .mayhem-header {
     margin: 0px 0px -20px 0px !important; }
     .mayhem-header img {
-      height: 90px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .mayhem-grid {
     padding-bottom: 0 !important; }
@@ -465,7 +468,8 @@ h1, h2, h3, h4, h5, p {
   .leadership-header {
     margin: 0px 0px -20px 0px !important; }
     .leadership-header img {
-      height: 60px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .leadership-name {
     font-size: 2rem !important;
@@ -500,7 +504,8 @@ h1, h2, h3, h4, h5, p {
   .intro-header {
     margin-top: -80px !important; }
     .intro-header img {
-      height: 100px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .navigation-container {
     height: 90px !important; }
@@ -570,7 +575,8 @@ h1, h2, h3, h4, h5, p {
   .mayhem-header {
     margin: 0px 0px -20px 0px !important; }
     .mayhem-header img {
-      height: 90px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .mayhem-grid {
     padding-bottom: 0 !important; }
@@ -581,6 +587,12 @@ h1, h2, h3, h4, h5, p {
 
   .mayhem-spacer {
     height: 25vh !important; }
+
+  .leadership-header {
+    margin: 0px 0px -20px 0px !important; }
+    .leadership-header img {
+      height: auto !important;
+      max-width: 100% !important; }
 
   .leadership-name {
     font-size: 2rem !important;
@@ -595,7 +607,11 @@ h1, h2, h3, h4, h5, p {
     font-size: 2rem !important; }
 
   .stat-nudge {
-    margin-top: 0px !important; } }
+    margin-top: 0px !important; }
+
+  .mischief-header img {
+    height: auto !important;
+    max-width: 100% !important; } }
 @media (min-width: 992px) and (max-width: 1200px) {
   .section {
     padding: 80px 40px !important; }

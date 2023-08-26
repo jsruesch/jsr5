@@ -28,14 +28,14 @@
 
  html{
    overflow: scroll;
-   min-height: 100%;
+   min-height: 100vh;
    position: relative;
    width: 100%;
    background-color: #090909;
    scroll-behavior: smooth;
  }
 
- body{ }
+ body{ background-color: #090909 !important; }
 
  a{  }
 
@@ -59,6 +59,7 @@
 
  table tr{  }
 
+img{ border: 0 !important; }
 
  ::selection{ background: $melon; color: white;  }
 
@@ -214,7 +215,8 @@
             font-size: 1.75rem;
             letter-spacing: 1px;
             text-align: center; 
-            border-top: 4px solid rgba(0,0,0,0);
+            border-bottom: 0px; 
+            text-decoration: none; 
 
             &:hover{
               @include transition; 
@@ -417,20 +419,14 @@
   text-align: center;
   text-decoration: none; 
 
-  -webkit-transition: all 0.2s ease;
-       -moz-transition: all 0.2s ease;
-        -ms-transition: all 0.2s ease;
-         -o-transition: all 0.2s ease;
+  @include transition;
 
   &:hover{
     color: white; 
     border-bottom: 4px solid #cc3939;
     margin-bottom: -4px;  
     text-decoration: none; 
-    -webkit-transition: all 0.2s ease;
-       -moz-transition: all 0.2s ease;
-        -ms-transition: all 0.2s ease;
-         -o-transition: all 0.2s ease;
+    @include transition;
   }
 }
 
@@ -888,9 +884,26 @@
  .footer{
   padding: 30px; 
 
-  img,p{
-    display: inline; 
+  .table{
+    display: table; 
+    margin: 0 auto;
   }
+
+  .footer-list{
+    list-style: none; 
+
+    li{
+      display: inline-block;     
+    }
+  }
+
+  img{
+    height: 40px;
+    width: auto;
+    margin: 5px 0 -8px 0;
+  }
+
+
  }
  
 /* END: Footer */

@@ -747,7 +747,8 @@ h1, h2, h3, h4, h5, p {
   .intro-header {
     margin-top: -60px !important; }
     .intro-header img {
-      height: 60px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .magic-header {
     margin: 0 0 -20px 0 !important; }
@@ -755,7 +756,8 @@ h1, h2, h3, h4, h5, p {
       height: 80px !important; }
 
   .mischief-header img {
-    height: 80px !important; }
+    height: auto !important;
+    max-width: 100% !important; }
 
   .mischief-content {
     padding: 40px !important; }
@@ -785,7 +787,8 @@ h1, h2, h3, h4, h5, p {
   .mayhem-header {
     margin: 0px 0px -20px 0px !important; }
     .mayhem-header img {
-      height: 90px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .mayhem-grid {
     padding-bottom: 0 !important; }
@@ -800,7 +803,8 @@ h1, h2, h3, h4, h5, p {
   .leadership-header {
     margin: 0px 0px -20px 0px !important; }
     .leadership-header img {
-      height: 60px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .leadership-name {
     font-size: 2rem !important;
@@ -835,7 +839,8 @@ h1, h2, h3, h4, h5, p {
   .intro-header {
     margin-top: -80px !important; }
     .intro-header img {
-      height: 100px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .navigation-container {
     height: 90px !important; }
@@ -905,7 +910,8 @@ h1, h2, h3, h4, h5, p {
   .mayhem-header {
     margin: 0px 0px -20px 0px !important; }
     .mayhem-header img {
-      height: 90px !important; }
+      height: auto !important;
+      max-width: 100% !important; }
 
   .mayhem-grid {
     padding-bottom: 0 !important; }
@@ -916,6 +922,12 @@ h1, h2, h3, h4, h5, p {
 
   .mayhem-spacer {
     height: 25vh !important; }
+
+  .leadership-header {
+    margin: 0px 0px -20px 0px !important; }
+    .leadership-header img {
+      height: auto !important;
+      max-width: 100% !important; }
 
   .leadership-name {
     font-size: 2rem !important;
@@ -930,7 +942,11 @@ h1, h2, h3, h4, h5, p {
     font-size: 2rem !important; }
 
   .stat-nudge {
-    margin-top: 0px !important; } }
+    margin-top: 0px !important; }
+
+  .mischief-header img {
+    height: auto !important;
+    max-width: 100% !important; } }
 @media (min-width: 992px) and (max-width: 1200px) {
   .section {
     padding: 80px 40px !important; }
@@ -2047,11 +2063,14 @@ section {
 
 html {
   overflow: scroll;
-  min-height: 100%;
+  min-height: 100vh;
   position: relative;
   width: 100%;
   background-color: #090909;
   scroll-behavior: smooth; }
+
+body {
+  background-color: #090909 !important; }
 
 p {
   font-family: 'Open Sans', sans-serif;
@@ -2067,6 +2086,9 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   color: #c3d4e3 !important;
   letter-spacing: 3px; }
+
+img {
+  border: 0 !important; }
 
 ::selection {
   background: #CC3939;
@@ -2225,7 +2247,8 @@ h1, h2, h3, h4, h5, h6 {
           font-size: 1.75rem;
           letter-spacing: 1px;
           text-align: center;
-          border-top: 4px solid rgba(0, 0, 0, 0); }
+          border-bottom: 0px;
+          text-decoration: none; }
           .navigation-container .nav-link-container ul li a:hover {
             -webkit-transition: all 0.2s ease;
             -moz-transition: all 0.2s ease;
@@ -2795,8 +2818,17 @@ h1, h2, h3, h4, h5, h6 {
  */
 .footer {
   padding: 30px; }
-  .footer img, .footer p {
-    display: inline; }
+  .footer .table {
+    display: table;
+    margin: 0 auto; }
+  .footer .footer-list {
+    list-style: none; }
+    .footer .footer-list li {
+      display: inline-block; }
+  .footer img {
+    height: 40px;
+    width: auto;
+    margin: 5px 0 -8px 0; }
 
 /* END: Footer */
 
