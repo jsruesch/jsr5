@@ -272,18 +272,18 @@ img{ border: 0 !important; }
       margin: 0 auto;
       
       li{
-        @include full;        
+        @include full; 
+        margin: 8px 0;       
 
         a{
           @include full; 
           @include transition; 
           color: rgb(198, 208, 240);
           font-weight: 900;
-          font-size: 2rem !important;
+          font-size: 1.7rem;
           letter-spacing: 3px !important; 
           text-transform: uppercase;
           font-family: 'tungstenmedium'; 
-          padding: 0px 10px 0px 0px; 
           border-bottom: 0px solid #cc3939; 
           border-width: 0; 
           text-align: center;
@@ -335,7 +335,7 @@ img{ border: 0 !important; }
       position: absolute;
       width: 100%;
       height: 100%;
-      background-color: $melon;
+      background-color: white;
       transform: translateX(-200%);
       transition: transform ease 300ms;
     }

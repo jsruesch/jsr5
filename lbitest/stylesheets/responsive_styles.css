@@ -385,6 +385,9 @@ h1, h2, h3, h4, h5, p {
     display: block !important;
     background: url(../img/header-backer-01.png) 50% 80% !important; }
 
+  .mobile-navigtation-links-container ul li a {
+    font-size: 1.4rem !important; }
+
   .hero-nav-container {
     display: none !important; }
 
@@ -559,6 +562,9 @@ h1, h2, h3, h4, h5, p {
     display: block !important;
     background: url(../img/header-backer-01.png) 50% 80% !important; }
 
+  .mobile-navigtation-links-container ul li a {
+    font-size: 1.4rem !important; }
+
   .bg-hero {
     padding-top: 70px !important; }
 
@@ -636,7 +642,10 @@ h1, h2, h3, h4, h5, p {
   .intro-header {
     margin-top: -80px !important; }
     .intro-header img {
-      height: 100px !important; } }
+      height: 100px !important; }
+
+  .hero-logo img {
+    height: 120px !important; } }
 @media (min-width: 1200px) and (max-width: 1400px) {
   .section {
     padding: 80px; }
