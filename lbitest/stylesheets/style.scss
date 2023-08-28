@@ -545,7 +545,15 @@ img{ border: 0 !important; }
     position:relative; 
     // background-size: auto 100%;
     // width: 100%; 
-    // float: left; 
+    // float: left;
+    
+    video{
+      width:100% !important;
+      object-fit: contain;
+      overflow-clip-margin: content-box;
+      overflow: clip;
+      margin-bottom: -4px;
+    }
   }
 
   .bg-magic{

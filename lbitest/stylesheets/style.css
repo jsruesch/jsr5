@@ -2531,6 +2531,12 @@ img {
 .bg-hero {
   background-color: #000000;
   position: relative; }
+  .bg-hero video {
+    width: 100% !important;
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    margin-bottom: -4px; }
 
 .bg-magic {
   background: url(../img/strip-magic-01.png) no-repeat 50% 0% #020207;
