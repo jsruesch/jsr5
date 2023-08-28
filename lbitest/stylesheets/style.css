@@ -986,7 +986,10 @@ h1, h2, h3, h4, h5, p {
     padding: 80px; }
 
   .content-wrapper {
-    width: 80vw !important; } }
+    width: 80vw !important; }
+
+  .hero-logo img {
+    height: 140px !important; } }
 @media (min-width: 1400px) and (max-width: 1920px) {
   .section {
     padding: 80px; }
