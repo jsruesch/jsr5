@@ -657,10 +657,16 @@ h1, h2, h3, h4, h5, p {
     width: 65vw !important; } }
 @media (min-width: 2400px) and (max-width: 2880px) {
   .section {
-    padding: 80px; } }
+    padding: 80px; }
+
+  .content-wrapper {
+    max-width: 2050px !important; } }
 @media (min-width: 2880px) and (max-width: 3840px) {
   .section {
-    padding: 80px; } }
+    padding: 80px; }
+
+  .content-wrapper {
+    max-width: 3000px !important; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
 /* End Smartphones */
