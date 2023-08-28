@@ -2285,8 +2285,7 @@ img {
             -o-transition: all 0.2s ease;
             border-bottom: 4px solid #CC3939;
             color: white;
-            text-decoration: none;
-            font-weight: 900 !important; }
+            text-decoration: none; }
   .navigation-container .nav-link-mobile-container {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
