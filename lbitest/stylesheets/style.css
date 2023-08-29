@@ -2107,7 +2107,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   font-weight: 500;
   color: #7d9db8;
-  font-size: 1.35rem; }
+  font-size: 1.2rem; }
 
 ul {
   list-style: none; }
@@ -2117,6 +2117,9 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   color: #c3d4e3 !important;
   letter-spacing: 3px; }
+
+h1 {
+  font-size: 2.5rem; }
 
 img {
   border: 0 !important; }
@@ -2156,6 +2159,18 @@ img {
 
 .center-text {
   text-align: center; }
+
+#our-mission {
+  margin-top: -400px;
+  padding-top: 400px; }
+
+#leadership {
+  margin-top: -90px;
+  padding-top: 90px; }
+
+#the-studio {
+  margin-top: -200px;
+  padding-top: 200px; }
 
 /* END: Utility Classes */
 /**
@@ -2759,7 +2774,7 @@ img {
   color: #7d9db8;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: calc(18px + 10 * ((90vw - 500px) / 680));
+  font-size: calc(18px + 10 * ((90vw - 800px) / 680));
   line-height: 30px;
   text-align: center;
   margin-bottom: -15px !important; }
