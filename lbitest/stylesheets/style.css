@@ -693,7 +693,7 @@ h1, h2, h3, h4, h5, p {
     -moz-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
-    padding: 25px 0 0 25px !important; }
+    padding: 3vh 0 0 4vw !important; }
     .navigation-logo img {
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease;
@@ -702,7 +702,9 @@ h1, h2, h3, h4, h5, p {
       height: 35px !important; }
 
   .menu-toggle {
-    margin: 10px 10px 0 0 !important; }
+    margin: 1vh 3vw 0 0 !important;
+    width: 8vh !important;
+    height: 8vh !important; }
 
   .nav-link-mobile-container {
     -webkit-transition: all 0.2s ease;
@@ -743,9 +745,6 @@ h1, h2, h3, h4, h5, p {
 
   .partners-mobile {
     display: block !important; }
-
-  p {
-    font-size: 1rem !important; }
 
   .intro-header {
     margin-top: -60px !important; }
@@ -835,7 +834,7 @@ h1, h2, h3, h4, h5, p {
 
   .tagline {
     font-size: 1.75rem !important; } }
-@media (min-width: 768px) and (max-width: 992px) {
+@media (min-width: 768px) and (max-width: 992px), (min-zoom: 0%) and (max-zoom: 100%) {
   .section {
     padding: 80px 40px !important; }
 
@@ -870,7 +869,7 @@ h1, h2, h3, h4, h5, p {
     -moz-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
-    padding: 25px 0 0 25px !important; }
+    padding: 2.5vh 0 0 25px !important; }
     .navigation-logo img {
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease;
@@ -1014,6 +1013,10 @@ h1, h2, h3, h4, h5, p {
 
   .content-wrapper {
     max-width: 3000px !important; } }
+@media screen and (min-zoom: 0%) and (max-zoom: 50%) {
+  /* your CSS styles here */
+  p {
+    font-size: calc(1.1rem + 8vw) !important; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
 /* End Smartphones */
@@ -2094,7 +2097,8 @@ html {
   position: relative;
   width: 100%;
   background-color: #090909;
-  scroll-behavior: smooth; }
+  scroll-behavior: smooth;
+  transform-origin: 50% 50%; }
 
 body {
   background-color: #090909 !important; }
@@ -2103,7 +2107,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   font-weight: 500;
   color: #7d9db8;
-  font-size: 1.1rem; }
+  font-size: 1.35rem; }
 
 ul {
   list-style: none; }
@@ -2218,6 +2222,9 @@ img {
   pointer-events: none;
   background-position: 50% 80%;
   opacity: 0;
+  height: 90px;
+  max-height: 14vh;
+  min-height: 5vh;
   /* Style for Nav bar after scrolling has begun */ }
   .navigation-container--navigation-past-scroll {
     -webkit-transition: all 0.2s ease;
@@ -2229,15 +2236,13 @@ img {
     pointer-events: auto;
     opacity: 1;
     background: url(../img/header-backer-01.png) 50% 40%;
-    height: 90px;
     background-size: fill; }
   .navigation-container .navigation-content {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
-    width: 90vw;
-    max-width: 1500px;
+    width: 80vw;
     margin: 0 auto; }
   .navigation-container .navigation-logo {
     -webkit-transition: all 0.2s ease;
@@ -2253,14 +2258,16 @@ img {
       -moz-transition: all 0.2s ease;
       -ms-transition: all 0.2s ease;
       -o-transition: all 0.2s ease;
-      height: 50px; }
+      height: 50px;
+      max-height: 8vh;
+      min-height: 4vh; }
   .navigation-container .nav-link-container {
     float: right; }
     .navigation-container .nav-link-container ul {
       height: 90px; }
       .navigation-container .nav-link-container ul li {
         float: left;
-        padding: 0px 15px;
+        padding: 2.5vh .55vw;
         height: 100%;
         display: flex;
         align-items: center; }
@@ -2273,7 +2280,7 @@ img {
           color: #7d9db8;
           font-family: 'tungstensemibold' !important;
           text-transform: uppercase;
-          font-size: 1.75rem;
+          font-size: calc(18px + 6 * ((100vw - 500px) / 680));
           letter-spacing: 1px;
           text-align: center;
           border-bottom: 0px;
@@ -2322,7 +2329,7 @@ img {
   background: rgba(4, 5, 12, 0.95); }
 
 .mobile-navigtation-links-container {
-  padding: 100px 40px 40px 40px; }
+  padding: 13vh 40px 40px 40px; }
   .mobile-navigtation-links-container ul {
     width: 100%;
     float: left;
@@ -2330,7 +2337,7 @@ img {
     .mobile-navigtation-links-container ul li {
       width: 100%;
       float: left;
-      margin: 8px 0; }
+      margin: 1.5vh 0; }
       .mobile-navigtation-links-container ul li a {
         width: 100%;
         float: left;
@@ -2341,7 +2348,7 @@ img {
         color: #c6d0f0;
         font-weight: 900;
         font-size: 1.7rem;
-        letter-spacing: 3px !important;
+        letter-spacing: 2px !important;
         text-transform: uppercase;
         font-family: 'tungstenmedium';
         border-bottom: 0px solid #cc3939;
@@ -2364,20 +2371,22 @@ img {
   width: 60px;
   height: 60px;
   cursor: pointer;
-  position: relative;
-  margin-right: 10px; }
+  position: relative; }
 
 .hamburger, .cross {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%); }
+  .hamburger span, .cross span {
+    width: 10px;
+    height: 2px; }
 
 .hamburger span {
   display: block;
   width: 30px;
-  height: 4px;
-  margin-bottom: 6px;
+  height: 2px;
+  margin-bottom: 4px;
   overflow: hidden;
   position: relative; }
   .hamburger span:last-child {
@@ -2489,6 +2498,8 @@ img {
   margin: -150px 0 20px 0; }
   .intro-header img {
     height: 130px;
+    max-height: 20vh;
+    min-height: 8vh;
     width: auto;
     margin: 0 auto; }
 
@@ -2497,6 +2508,8 @@ img {
   margin: 0 0 -30px 0; }
   .magic-header img {
     height: 130px;
+    max-height: 20vh;
+    min-height: 8vh;
     width: auto;
     margin: 0 auto; }
 
@@ -2517,6 +2530,8 @@ img {
   z-index: 1; }
   .mischief-header img {
     height: 130px;
+    max-height: 20vh;
+    min-height: 8vh;
     width: auto;
     margin: 0 auto; }
 
@@ -2526,6 +2541,8 @@ img {
   z-index: 1; }
   .mayhem-header img {
     height: 130px;
+    max-height: 20vh;
+    min-height: 8vh;
     width: auto;
     margin: 0 auto; }
 
@@ -2539,6 +2556,8 @@ img {
   z-index: 1; }
   .leadership-header img {
     height: 100px;
+    max-height: 20vh;
+    min-height: 8vh;
     width: auto;
     margin: 0 auto; }
 
@@ -2560,7 +2579,7 @@ img {
 .bg-magic {
   background: url(../img/strip-magic-01.png) no-repeat 50% 0% #000000;
   background-size: auto 100%;
-  min-height: 500px;
+  min-height: 50vh;
   padding: 100px 0 100px 0;
   margin-top: -80px;
   position: relative;
@@ -2735,12 +2754,12 @@ img {
 .leadership-name {
   width: 100%;
   float: left;
-  padding: 15px 0 0 0;
+  padding: 1.75vh 0 1vh 0;
   font-family: 'tungstenbold';
   color: #7d9db8;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 1.75rem;
+  font-size: calc(18px + 10 * ((90vw - 500px) / 680));
   line-height: 30px;
   text-align: center;
   margin-bottom: -15px !important; }
@@ -2748,18 +2767,18 @@ img {
 .leadership-title {
   width: 100%;
   float: left;
-  padding: 15px 0 0 0;
+  padding: 1.75vh 0 0 0;
   font-family: 'tungstensemibold';
   color: #c3d4e3;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 1.25rem;
+  font-size: calc(18px + 4 * ((90vw - 500px) / 680));
   line-height: 25px;
   text-align: center; }
 
 /* End Leadership */
 .tagline {
-  padding: 15px 0 0 0;
+  padding: 1.75vh 0 1.75vh 0;
   font-family: 'tungstenbold';
   color: #c3d4e3;
   letter-spacing: 2px;
@@ -2772,6 +2791,11 @@ img {
 .join-us-logo-container {
   text-align: center;
   margin: -150px 0 30px 0; }
+  .join-us-logo-container img {
+    width: 460px;
+    max-width: 30vw;
+    min-width: 20vw;
+    height: auto; }
 
 .join-us-btn {
   -webkit-transition: all 0.2s ease;
@@ -2780,7 +2804,7 @@ img {
   -o-transition: all 0.2s ease;
   color: white;
   font-weight: 900;
-  font-size: 2.5rem !important;
+  font-size: calc(18px + 8 * ((100vw - 500px) / 680));
   letter-spacing: 3px !important;
   text-transform: uppercase;
   font-family: 'tungstenmedium';
@@ -2811,7 +2835,7 @@ img {
 .stat-number {
   width: 100%;
   float: left;
-  padding: 15px 0 15px 0;
+  padding: 1.75vh 0 1.75vh 0;
   font-family: 'brotherhod';
   color: #7d9db8;
   letter-spacing: 2px;
@@ -2823,7 +2847,7 @@ img {
 .stat-label {
   width: 100%;
   float: left;
-  padding: 15px 0 0 0;
+  padding: 1.75vh 0 1.75vh 0;
   font-family: 'tungstensemibold';
   color: #c3d4e3;
   letter-spacing: 2px;

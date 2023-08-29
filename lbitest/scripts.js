@@ -8,12 +8,12 @@ $(window).on('scroll', function(){
 	}
 });
 
-// Animate Menu Toggle Icon
-	$(document).ready(function(){
-		$('.menu-toggle').on('click',function(){
-			$('.menu-toggle').toggleClass('active');
-		});
-	});
+// // Animate Menu Toggle Icon
+// 	$(document).ready(function(){
+// 		$('.menu-toggle').on('click',function(){
+// 			$('.menu-toggle').toggleClass('active');
+// 		});
+// 	});
 
 
 // Show and Hide Mobile Menu

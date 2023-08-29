@@ -6,6 +6,8 @@
 
 @import 'mixins';
 
+
+
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width:768px){ 
     .section{ padding: 80px 40px !important; }
@@ -27,10 +29,19 @@
     .navigation-content{ width: 100% !important; }
     .navigation-logo{
         @include transition; 
-        padding: 25px 0 0 25px !important; 
+        padding: 3vh 0 0 4vw !important;
         img{ @include transition; height: 35px !important; }
     } 
-    .menu-toggle{ margin: 10px 10px 0 0 !important; }
+    .menu-toggle{ 
+        
+        margin: 1vh 3vw 0 0 !important;
+    
+        width: 8vh !important;
+        height: 8vh !important;
+
+    }
+
+
     .nav-link-mobile-container{ @include transition; display: block !important; }
     .mobile-nav-container{ display: block !important;  }
     .navigation-container{ 
@@ -62,8 +73,6 @@
     
     .partners-desktop { display: none !important; }
     .partners-mobile { display: block !important; }
-
-    p{ font-size: 1rem !important; }
 
     .intro-header{
         margin-top: -60px !important;     
@@ -174,11 +183,9 @@
       .tagline{
         font-size: 1.75rem !important;
       }
-
-
  }
 
-@media (min-width: 768px) and (max-width:992px){ 
+@media (min-width: 768px) and (max-width:992px), (min-zoom: 0%) and (max-zoom: 100%) { 
     .section{ padding: 80px 40px !important; }
     .content-wrapper{
         width: 100% !important;
@@ -215,7 +222,7 @@
     .navigation-content{ width: 100% !important; }
     .navigation-logo{
         @include transition; 
-        padding: 25px 0 0 25px !important; 
+        padding:2.5vh 0 0 25px !important; 
         img{ @include transition; height: 35px !important; }
     } 
     .menu-toggle{ margin: 10px 10px 0 0 !important; }
@@ -389,9 +396,13 @@
 
 
 
+ @media screen and (min-zoom: 0%) and (max-zoom: 50%) {
+    /* your CSS styles here */
+    p{
+        font-size: calc(1.1rem + 8vw) !important;}
+ }
 
-
-
+ 
 
 
 @media (min-device-width: 519px) and (max-devide-width:770px){  }
@@ -400,8 +411,6 @@
 /*-----------------  Smartphones  -----------------*/
 @media (max-device-width: 519px) {  }
 /* End Smartphones */
-
-
 
 
 
