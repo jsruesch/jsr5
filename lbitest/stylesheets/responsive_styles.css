@@ -371,6 +371,9 @@ h1, h2, h3, h4, h5, p {
     width: 8vh !important;
     height: 8vh !important; }
 
+  .welcome-text {
+    padding-bottom: 0 !important; }
+
   .nav-link-mobile-container {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;

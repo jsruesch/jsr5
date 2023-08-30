@@ -41,6 +41,9 @@
 
     }
 
+    .welcome-text{
+        padding-bottom: 0 !important; 
+    }
 
     .nav-link-mobile-container{ @include transition; display: block !important; }
     .mobile-nav-container{ display: block !important;  }

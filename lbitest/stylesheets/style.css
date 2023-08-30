@@ -706,6 +706,9 @@ h1, h2, h3, h4, h5, p {
     width: 8vh !important;
     height: 8vh !important; }
 
+  .welcome-text {
+    padding-bottom: 0 !important; }
+
   .nav-link-mobile-container {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
@@ -2195,7 +2198,7 @@ img {
   float: left;
   text-align: center; }
   .hero-link-container li {
-    margin: 10px 0 !important; }
+    margin: 5px 0 !important; }
 
 .hero-link {
   -webkit-transition: all 0.2s ease;
@@ -2209,9 +2212,9 @@ img {
   font-family: 'tungstenmedium';
   padding: 5px 10px;
   text-decoration: none;
-  font-size: calc(.2rem + 2vw);
+  font-size: calc(.2rem + 1.7vw);
   letter-spacing: .3vw;
-  line-height: calc(.2rem + 2.5vw); }
+  line-height: calc(.2rem + 2vw); }
   .hero-link:hover {
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
@@ -2220,9 +2223,9 @@ img {
     cursor: pointer;
     color: white;
     background: #CC3939;
-    font-size: calc(.5rem + 2.25vw);
+    font-size: calc(.2rem + 2vw);
     letter-spacing: .3vw;
-    line-height: calc(.2rem + 2.5vw);
+    line-height: calc(.2rem + 2vw);
     padding: 5px 80px;
     text-decoration: none; }
 
@@ -2276,6 +2279,15 @@ img {
       height: 50px;
       max-height: 8vh;
       min-height: 4vh; }
+  .navigation-container .hashes {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10px;
+    z-index: 3;
+    margin-top: -10px;
+    left: 0;
+    background: url(../img/hashes.png) repeat-x; }
   .navigation-container .nav-link-container {
     float: right; }
     .navigation-container .nav-link-container ul {
@@ -2505,6 +2517,9 @@ img {
   padding: 100px 0 0 0;
   position: relative;
   z-index: 1; }
+  .welcome-text p {
+    position: relative;
+    z-index: 2; }
 
 .intro-header {
   width: 100%;
@@ -2596,7 +2611,7 @@ img {
   background-size: auto 100%;
   min-height: 50vh;
   padding: 100px 0 100px 0;
-  margin-top: -80px;
+  margin-top: -40px;
   position: relative;
   z-index: 0; }
   .bg-magic .content-wrapper {
