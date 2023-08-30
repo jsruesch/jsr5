@@ -2699,6 +2699,18 @@ img {
   z-index: 1;
   margin-top: -12px; }
 
+.footer-subtext p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  color: #7d9db8;
+  font-size: .8rem;
+  margin: 1vh 0; }
+.footer-subtext a {
+  color: #c3d4e3;
+  font-weight: 900; }
+  .footer-subtext a:hover {
+    color: #CC3939; }
+
 .border-01 {
   height: auto;
   width: 100%;

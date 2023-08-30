@@ -727,6 +727,25 @@ img{ border: 0 !important; }
     margin-top: -12px; 
   }
 
+  .footer-subtext{
+
+    p{
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 500; 
+      color: $mblue; 
+      font-size: .8rem; 
+      margin: 1vh 0;
+    }
+    
+
+    a{
+      color: $lblue;
+      font-weight: 900;
+      &:hover{
+        color: $melon; 
+      }
+    }
+  }
 
 
   .border-01{
